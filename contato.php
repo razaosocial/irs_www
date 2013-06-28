@@ -54,17 +54,17 @@ include("inc/menu.php");
                 
                 //definindo dados do servidor smtp
                 $mail->IsSMTP(); //definindo que o enviou vai  ser smtp;
-                $mail->Host = "smtp.gmail.com";
+                $mail->Host = "smtp.sendgrid.net";
                 $mail->Port = 587;
                 $mail->SMTPAuth = true;
-                $mail->Username = 'XXXXXXXXXX';
-                $mail->Password = 'XXXXXXXXXX';
+                $mail->Username = 'XXXXX';
+                $mail->Password = 'XXXXX';
                 $mail->SMTPSecure = "tls";
                 //dados do e-mail
-                $mail->Subject = "Contato SITE - IRS";
+                $mail->Subject = "Contato - Instituto Razão Social";
                 $mail->From = $txtEmail; 
                 $mail->FromName = $txtNome ;
-                $mail->AddAddress('suporte@institutorazaosocial.org.br');
+                $mail->AddAddress('fernando.nogueira@razaosocial.org.br');
                 $mail->IsHTML(true); // Define que o e-mail será enviado como HTML
                $mail->Body =$mensagem;
 
