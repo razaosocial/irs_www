@@ -39,6 +39,9 @@
                         <div class="footer_menu_txt">
                             <a href="http://helpdesk.razaosocial.org.br/admin" Target="_blank">- Help Desk</a>
                         </div>
+                        <div class="footer_menu_txt">
+                            <a href="http://ead.razaosocial.org.br/login/index.php" Target="_blank">- Ambiente Virtual</a>
+                        </div>
                         <br /><br />
                     </div>
                     
