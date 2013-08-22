@@ -376,7 +376,7 @@ h6 {
 /*--------------------------------------------------------------------------*/
 .container {
     margin: 0 auto;
-    position: relative;
+    /*position: relative; Zyon*/
     width: 960px;
 }
 .one,.one-half,.two-third,.one-third,.one-fourth ,.one-fifth,.one-sixth,.three-fourth{ float:left;position:relative;margin-right:3%; }

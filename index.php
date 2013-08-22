@@ -10,10 +10,10 @@
 	</div>
 </div>
 
-<section id="content" class="container">
+ <section id="content" class="container">
 		<h5>conteudo do site!!</h5>
-</section>
+</section> 
 
 <?php 
-	include_once('inc/footer.php');
+	 include_once('inc/footer.php');
 ?>
