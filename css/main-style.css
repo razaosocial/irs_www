@@ -3519,3 +3519,12 @@ ul.pricing-box li.one-third.best-plan {
     margin-bottom: 20px;
 }
 }
+
+/*########### FERNANDO CSS #############*/
+
+.mantenedor{
+    text-align: center;
+}
+.mantenedor .interno{
+    padding: 20px;
+}

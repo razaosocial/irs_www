@@ -77,9 +77,9 @@
 <div class="portfolio-grid">
         <ul class="portfolio-items">
                 <li data-categories="design development" class="thumb one-fourth">
-                <a href="images/portfolio-images/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
+                <a href="images/projetos/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
-                        <img src="images/portfolio-images/portfolio-item-1.jpg" alt=" "/>
+                        <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
                 </div>
                 </a>
                 <a href="single-project.html">
@@ -90,22 +90,9 @@
                 </p>
                 </li>
                 <li data-categories="design development" class="thumb one-fourth">
-                <a href="images/portfolio-images/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
+                <a href="images/projetos/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
-                        <img src="images/portfolio-images/portfolio-item-1.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>Conviva</h3>
-                </a>
-                <p class="meta">
-                        Em Andamento
-                </p>
-                </li>
-                <li data-categories="illustration design" class="thumb one-fourth">
-                <a href="images/portfolio-images/portfolio-item-2.jpg" data-rel="prettyPhoto" class="screen-roll"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/portfolio-images/portfolio-item-2.jpg" alt=" "/>
+                        <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
                 </div>
                 </a>
                 <a href="single-project.html">
@@ -115,17 +102,30 @@
                         Em Andamento
                 </p>
                 </li>
-                <li data-categories="design development" class="thumb one-fourth">
-                <a href="images/portfolio-images/portfolio-item-3.jpg" class="screen-roll" data-rel="prettyPhoto" title="Some Image Dummy Title"><span class="hover_bg"></span>
+                <li data-categories="illustration design" class="thumb one-fourth">
+                <a href="images/projetos/portfolio-item-2.jpg" data-rel="prettyPhoto" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
-                        <img src="images/portfolio-images/portfolio-item-3.jpg" alt=" "/>
+                        <img src="images/projetos/portfolio-item-2.jpg" alt=" "/>
                 </div>
                 </a>
                 <a href="single-project.html">
-                <h3>Joomla Plugins</h3>
+                <h3>Conviva</h3>
                 </a>
                 <p class="meta">
-                        Design / Development
+                        Em Andamento
+                </p>
+                </li>
+                <li data-categories="design development" class="thumb one-fourth">
+                <a href="images/projetos/portfolio-item-3.jpg" class="screen-roll" data-rel="prettyPhoto" title="Some Image Dummy Title"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/portfolio-item-3.jpg" alt=" "/>
+                </div>
+                </a>
+                <a href="single-project.html">
+                <h3>Trilhas</h3>
+                </a>
+                <p class="meta">
+                        Em Andamento
                 </p>
                 </li>
         </ul>
@@ -133,9 +133,26 @@
 </section>
 <section class="one">
 <div class="title-div">
-        <h2>Our amazing <strong>recent clients</strong></h2>
-        <h5>We've worked with more than 20 startups lorem ipsum dolor sit amet, altera domina tu mihi servitute meam..</h5>
+        <h2><strong>Mantenedores</strong></h2>
+        <div class="one">
+            <div class="one-half">
+                <div class="interno"><img src="images/mantenedor/gerdau.png" title="Gerdau" alt="Gerdau"></div>
+            </div>
+            <div class="one-half last">
+                <div class="interno"><img src="images/mantenedor/grupo-promon.png" title="Grupo Promon" alt="Grupo Promon"></div>
+            </div>
+        </div>
 </div>
+<div class="title-div">
+        <h2><strong>Parceiro Tecnológico</strong></h2>
+        <div class="on">
+            <div class="mantenedor">    
+            <div class="interno"><img src="images/parceiro-tecnologico/ibm.png" title="IBM" alt="IBM"></div>
+        </div>
+</div>
+</div>
+
+    
 <div class="one-fifth">
         <div class="thumbnail">
                 <a href="#" class="thumbnail-roll">
