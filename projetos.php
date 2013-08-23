@@ -2,9 +2,11 @@
    include_once('inc/header.php');
    include_once('inc/menu.php');
  ?>
-
+  <div class="title-div">  
   <div class="container">
-   <h2>RAZAO SOCIAL O CAMINHO PARA O FUTURO!</h2><br />frase superior
+        <h2>
+            RAZAO SOCIAL O CAMINHO PARA O FUTURO!
+        </h2><br />
   </div>
  
 <section id="content" class="container">
@@ -27,10 +29,10 @@
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>Wordpress themes</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Development
+						Status Projeto
 					</p>
 					</li>
 					<li data-categories="illustration design" class="thumb one-fourth">
@@ -40,10 +42,10 @@
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>Logo Design</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Illustration
+						Status Projeto
 					</p>
 					</li>
 					<li data-categories="design development" class="thumb one-fourth">
@@ -53,23 +55,23 @@
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>Joomla Plugins</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Development
+						Status Projeto
 					</p>
 					</li>
-					<li data-categories="photography illustration animation" class="thumb one-fourth">
-					<a href="http://www.youtube.com/watch?v=GgR6dyzkKHI" data-rel="prettyPhoto" title="Some Dummy Video Title" class="screen-roll"><span class="hover_bg_video"></span>
+					<li data-categories="design development" class="thumb one-fourth">
+					<a href="images/portfolio-images/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
 					<div class="bg-grey">
-						<img src="images/portfolio-images/portfolio-item-4.jpg" alt=" "/>
+						<img src="images/portfolio-images/portfolio-item-1.jpg" alt=" "/>
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>SEO Optimization</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Photography
+						Status Projeto
 					</p>
 					</li>
 					<li data-categories="development design" class="thumb one-fourth">
@@ -79,23 +81,23 @@
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>E-Commerce</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Development
+						Status Projeto
 					</p>
 					</li>
-					<li data-categories="design animation" class="thumb one-fourth">
-					<a href="http://vimeo.com/7449107" data-rel="prettyPhoto" title="Some Dummy Video Title" class="screen-roll"><span class="hover_bg_video"></span>
+					<li data-categories="design development" class="thumb one-fourth">
+					<a href="images/portfolio-images/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
 					<div class="bg-grey">
-						<img src="images/portfolio-images/portfolio-item-6.jpg" alt=" "/>
+						<img src="images/portfolio-images/portfolio-item-1.jpg" alt=" "/>
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>Hosting Solutions</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Animation
+						Status Projeto
 					</p>
 					</li>
 					<li data-categories="development illustration" class="thumb one-fourth">
@@ -105,75 +107,75 @@
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>Site Maintenance</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Illustration
+						Status Projeto
 					</p>
 					</li>
-					<li data-categories="photography animation" class="thumb one-fourth">
-					<a href="http://vimeo.com/7449107" data-rel="prettyPhoto" title="Some Dummy Video Title" class="screen-roll"><span class="hover_bg_video"></span>
+					<li data-categories="design development" class="thumb one-fourth">
+					<a href="images/portfolio-images/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
 					<div class="bg-grey">
-						<img src="images/portfolio-images/portfolio-item-8.jpg" alt=" "/>
+						<img src="images/portfolio-images/portfolio-item-1.jpg" alt=" "/>
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>Wordpress Plugins</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Development
+						Status Projeto
 					</p>
 					</li>
 					<li data-categories="illustrator design" class="thumb one-fourth">
-					<a href="images/portfolio-images/portfolio-item-9.jpg" data-rel="prettyPhoto" title="Some Image Dummy Title" class="screen-roll"><span class="hover_bg"></span>
+					<a href="images/portfolio-images/portfolio-item-9.jpg" data-rel="prettyPhoto" title="TÍTULO DA IMAGEM" class="screen-roll"><span class="hover_bg"></span>
 					<div class="bg-grey">
 						<img src="images/portfolio-images/portfolio-item-9.jpg" alt=" "/>
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>Drupal Websites</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Development
+						Status Projeto
 					</p>
 					</li>
-					<li data-categories="photography animation" class="thumb one-fourth">
-					<a href="http://www.youtube.com/watch?v=GgR6dyzkKHI" data-rel="prettyPhoto" title="Some Dummy Video Title" class="screen-roll"><span class="hover_bg_video"></span>
+					<li data-categories="design development" class="thumb one-fourth">
+					<a href="images/portfolio-images/portfolio-item-1.jpg" data-rel="prettyPhoto" title="TÍTULO DA IMAGEM" class="screen-roll"><span class="hover_bg"></span>
 					<div class="bg-grey">
-						<img src="images/portfolio-images/portfolio-item-10.jpg" alt=" "/>
+						<img src="images/portfolio-images/portfolio-item-1.jpg" alt=" "/>
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>Magento Shops</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Development
+						Status Projeto
 					</p>
 					</li>
 					<li data-categories="design illustration development" class="thumb one-fourth">
-					<a href="images/portfolio-images/portfolio-item-11.jpg" data-rel="prettyPhoto" title="Some Image Dummy Title" class="screen-roll"><span class="hover_bg"></span>
+					<a href="images/portfolio-images/portfolio-item-11.jpg" data-rel="prettyPhoto" title="TÍTULO DA IMAGEM" class="screen-roll"><span class="hover_bg"></span>
 					<div class="bg-grey">
 						<img src="images/portfolio-images/portfolio-item-11.jpg" alt=" "/>
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>Jquery Plugins</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Development
+						Status Projeto
 					</p>
 					</li>
 					<li data-categories="photography development illustration" class="thumb one-fourth">
-					<a href="images/portfolio-images/portfolio-item-12.jpg" data-rel="prettyPhoto" title="Some Image Dummy Title" class="screen-roll"><span class="hover_bg"></span>
+					<a href="osc.pdf" class="screen-roll"><span class="hover_bg"></span>
 					<div class="bg-grey">
 						<img src="images/portfolio-images/portfolio-item-12.jpg" alt=" "/>
 					</div>
 					</a>
 					<a href="single-project.html">
-					<h3>Wordpress Shops</h3>
+					<h3>Nome do projeto</h3>
 					</a>
 					<p class="meta">
-						Design / Development
+						Status Projeto
 					</p>
 					</li>
 				</ul>
