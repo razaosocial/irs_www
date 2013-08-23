@@ -40,11 +40,5 @@
 			</div>
 			</section>
 		<!--CONTENT ENDS-->
-		</div>
-		<!--CENTER PAGE ENDS-->
-	</div>
-	<!--CONTAINER PAGE ENDS-->
-</div>
-<!--FIM DO WRAPPER-->
 </body>
 </html>
