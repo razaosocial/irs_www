@@ -20,16 +20,33 @@
 						<!--  MAIN  NAVIGATION-->
 						<ul class="main-menu">
 							<li>
-								<a href="index.php" title="Home" class="active">Home </a>
+								<a href="index.php" title="Home" <?php 	$page = $_SERVER['PHP_SELF'];
+
+																			if (strpos($page, 'index')) {
+																				echo 'class="active"';
+																			}?> >Home </a>
+							</li>
+
+							<li>
+								<a href="#" title="Quem Somos" <?php 	$page = $_SERVER['PHP_SELF'];
+
+																			if (strpos($page, 'NOME DA PAGINA!!')) {
+																				echo 'class="active"';
+																			}?>>Quem Somos</a>
 							</li>
 							<li>
-								<a href="#" title="Quem Somos">Quem Somos</a>
+								<a href="#" title="Projetos" <?php 	$page = $_SERVER['PHP_SELF'];
+
+																			if (strpos($page, 'NOME DA PAGINA!!')) {
+																				echo 'class="active"';
+																			}?>>Projetos</a>
 							</li>
 							<li>
-								<a href="#" title="Projetos">Projetos</a>
-							</li>
-							<li>
-								<a href="contato.php" title="Contato">Contato</a>
+								<a href="contato.php" title="Contato"<?php 	$page = $_SERVER['PHP_SELF'];
+
+																			if (strpos($page, 'contato')) {
+																				echo 'class="active"';
+																			}?>>Contato</a>
 							</li>
 						</ul>
 						</nav>
