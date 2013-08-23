@@ -5,7 +5,7 @@
 <!-- Mensagem -->
 <!--<div class="title-div">
         <div class="container">
-                <h2>We provide the ultimate <strong>WordPress themes</strong>, that work amazing both on your computers &amp; mobile devices, and we make awesome <strong>HTML templates</strong></h2>
+                <h2>Mensagem</h2>
         </div>
 </div>-->
 </section>
@@ -71,46 +71,8 @@
 <div class="horizontal-line">
 </div>
 <div class="title-div">
-        <h2>The Features of <strong>Outshined template</strong></h2>
-        <h5>See What We’ve Been Working On. We work with lots of great companies. Learn about what we do.Lorem ipsum dolor sit amet, longa ferri Lorem post multi ingenio.</h5>
-</div>
-</section>
-<section class="one">
-<div class="one-fourth">
-        <div class="service">
-                <div class="featured_img_01">
-                </div>
-                <h4>Responsive</h4>
-        </div>
-</div>
-<div class="one-fourth">
-        <div class="service">
-                <div class="featured_img_02">
-                </div>
-                <h4>Useful Features</h4>
-        </div>
-</div>
-<div class="one-fourth">
-        <div class="service">
-                <div class="featured_img_03">
-                </div>
-                <h4>Lovely Design</h4>
-        </div>
-</div>
-<div class="one-fourth last">
-        <div class="service">
-                <div class="featured_img_04">
-                </div>
-                <h4>Time Saving</h4>
-        </div>
-</div>
-</section>
-<section class="one">
-<div class="horizontal-line">
-</div>
-<div class="title-div">
-        <h2>Our amazing work <strong>we've created</strong></h2>
-        <h5>See What We’ve Been Working On. We work with lots of great companies. Learn about what we do.Lorem ipsum dolor sit amet, longa ferri Lorem post multi ingenio.</h5>
+        <h2><strong>Nossos Projetos</strong></h2>
+        <h5>Conheça um pouco sobre cada um de nossos projetos e como funcionam.</h5>
 </div>
 <div class="portfolio-grid">
         <ul class="portfolio-items">
@@ -121,10 +83,23 @@
                 </div>
                 </a>
                 <a href="single-project.html">
-                <h3>Wordpress themes</h3>
+                <h3>Formar em Rede</h3>
                 </a>
                 <p class="meta">
-                        Design / Development
+                        Em andamento
+                </p>
+                </li>
+                <li data-categories="design development" class="thumb one-fourth">
+                <a href="images/portfolio-images/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/portfolio-images/portfolio-item-1.jpg" alt=" "/>
+                </div>
+                </a>
+                <a href="single-project.html">
+                <h3>Conviva</h3>
+                </a>
+                <p class="meta">
+                        Em Andamento
                 </p>
                 </li>
                 <li data-categories="illustration design" class="thumb one-fourth">
@@ -134,10 +109,10 @@
                 </div>
                 </a>
                 <a href="single-project.html">
-                <h3>Logo Design</h3>
+                <h3>OSC</h3>
                 </a>
                 <p class="meta">
-                        Design / Illustration
+                        Em Andamento
                 </p>
                 </li>
                 <li data-categories="design development" class="thumb one-fourth">
@@ -148,71 +123,6 @@
                 </a>
                 <a href="single-project.html">
                 <h3>Joomla Plugins</h3>
-                </a>
-                <p class="meta">
-                        Design / Development
-                </p>
-                </li>
-                <li data-categories="photography illustration animation" class="thumb one-fourth">
-                <a href="http://www.youtube.com/watch?v=GgR6dyzkKHI" data-rel="prettyPhoto" title="Some Dummy Video Title" class="screen-roll"><span class="hover_bg_video"></span>
-                <div class="bg-grey">
-                        <img src="images/portfolio-images/portfolio-item-4.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>SEO Optimization</h3>
-                </a>
-                <p class="meta">
-                        Design / Photography
-                </p>
-                </li>
-                <li data-categories="development design" class="thumb one-fourth">
-                <a href="images/portfolio-images/portfolio-item-5.jpg" data-rel="prettyPhoto" title="Some Image Dummy Title" class="screen-roll"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/portfolio-images/portfolio-item-5.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>E-Commerce</h3>
-                </a>
-                <p class="meta">
-                        Design / Development
-                </p>
-                </li>
-                <li data-categories="design animation" class="thumb one-fourth">
-                <a href="http://vimeo.com/7449107" data-rel="prettyPhoto" title="Some Dummy Video Title" class="screen-roll"><span class="hover_bg_video"></span>
-                <div class="bg-grey">
-                        <img src="images/portfolio-images/portfolio-item-6.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>Hosting Solutions</h3>
-                </a>
-                <p class="meta">
-                        Design / Animation
-                </p>
-                </li>
-                <li data-categories="development illustration" class="thumb one-fourth">
-                <a href="images/portfolio-images/portfolio-item-7.jpg" data-rel="prettyPhoto" title="Some Image Dummy Title" class="screen-roll"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/portfolio-images/portfolio-item-7.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>Site Maintenance</h3>
-                </a>
-                <p class="meta">
-                        Design / Illustration
-                </p>
-                </li>
-                <li data-categories="photography animation" class="thumb one-fourth">
-                <a href="http://vimeo.com/7449107" data-rel="prettyPhoto" title="Some Dummy Video Title" class="screen-roll"><span class="hover_bg_video"></span>
-                <div class="bg-grey">
-                        <img src="images/portfolio-images/portfolio-item-8.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>Wordpress Plugins</h3>
                 </a>
                 <p class="meta">
                         Design / Development
