@@ -226,12 +226,12 @@ h6 {
     margin-bottom: 30px;
 }
 #logo {
-	float:left;
-	display:block;
-	margin:30px 0 ;
-	background:url("../images/logo.png") no-repeat;
-	width:155px;
-	height:40px;
+float: left;
+display: block;
+margin: 10px 0px 0px 0px;
+background: url("../images/lg_instituto.png") no-repeat;
+width: 155px;
+height: 105px;
 }
 .title-div{
 	float:left;
@@ -384,7 +384,7 @@ h6 {
 .one-half {	width: 48.5%; }
 .two-third { width: 65.67%; }
 .one-third  { width: 31.33%; }
-.one-fourth { width: 22.75%; }
+.one-fourth { width: 23.75%; }
 .three-fourth { width: 74.25%; }
 .one-fifth { width: 17.6%; }
 .one-sixth { width: 14.1%; }

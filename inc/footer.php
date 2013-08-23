@@ -3,69 +3,39 @@
 			<div class="container">
 				<div class="one">
 					<div class="one-fourth">
-						<h4><img src="images/logo_bottom.png" alt=" "/></h4>
+                                            <h4>Contato</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nisl orci, condimentum ultrices consequat eu, vehicula ac mauris. Ut adipiscing. Aenean nisl orci, condimentum ultrices consequat.
+							Av. Presidente Jucelino Kubitschek, 1830
 						</p>
 						<p>
-							 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Agere intendimus paralyticus ante propter illa caelum ad quia iuvenis.
-						</p>
+							 Torre 4 - 15&#186; Andar
+                                                </p>
+                                                <p>
+                                                        Itaim Bibi, S&#227;o Paulo - SP
+                                                </p>
+                                                <p>     CEP: 04543-900
+                                                </p><br />
+                                                <p>Telefone: (11) 5213-4981
+                                                </p>
+                                                <p>E-mail: razaosocial@razaosocial.org.br
+                                                </p>
 					</div>
+					
 					<div class="one-fourth">
-						<h4>Twitter Feeds</h4>
-						<div class="twitter-feeds">
-						</div>
-					</div>
-					<div class="one-fourth">
-						<h4>Latest Posts</h4>
-						<ul class="latest-posts">
-							<li>
-							<div class="post-footer-intro">
-								<p>
-									<a href="#">Maecenas metus nulla, facili.</a>
-								</p>
-								<span class="date">28 October 2012</span>
-							</div>
-							</li>
-							<li>
-							<div class="post-footer-intro">
-								<p>
-									<a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit..</a>
-								</p>
-								<span class="date">28 October 2012</span>
-							</div>
-							</li>
-							<li>
-							<div class="post-footer-intro">
-								<p>
-									<a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit..</a>
-								</p>
-								<span class="date">28 October 2012</span>
-							</div>
-							</li>
-						</ul>
-					</div>
-					<div class="one-fourth last">
-						<h4>Flickr Photos</h4>
-						<div class="flickr-feeds">
-						</div>
-					</div>
-				</div>
-			</div>
+
 			</section>
 			<section id="copyrights">
 			<div class="container">
 				<div class="one-half">
 					<p>
-						&copy; 2012 <a href="http://themeforest.net/?ref=trendyWebStar" target="_blank" class="colored-text">trendyWebStar</a>. All rights reserved.
+						&copy; 2013 Instituto Raz&#227;o Social. Todos os direitos reservados.
 					</p>
 				</div>
 				<div class="one-half last">
 					<ul class="copyright_links">
-						<li><a href="#" title="Home">Home</a></li>
-						<li><a href="#" title="About">About us</a></li>
-						<li><a href="#" title="Blog">Blog</a></li>
-						<li><a href="#" title="Contact">Contact</a></li>
+						<li><a href="#" title="Home">Presta&#231;&#227;o de Contas</a></li>
+						<li><a href="#" title="About">Termo</a></li>
+						<li><a href="#" title="Blog">Privacidade</a></li>
 					</ul>
 				</div>
 			</div>
