@@ -33,19 +33,12 @@
 				</div>
 				<div class="one-half last">
 					<ul class="copyright_links">
-						<li><a href="#" title="Home">Presta&#231;&#227;o de Contas</a></li>
-						<li><a href="#" title="About">Termo</a></li>
-						<li><a href="#" title="Blog">Privacidade</a></li>
+						<li><a href="pdf/prestacao_de_contas_2010.pdf" target="_blank">Presta&#231;&#227;o de Contas</a></li>
+						<li><a href="#" >Termo de Privacidade</a></li>
 					</ul>
 				</div>
 			</div>
 			</section>
 		<!--CONTENT ENDS-->
-		</div>
-		<!--CENTER PAGE ENDS-->
-	</div>
-	<!--CONTAINER PAGE ENDS-->
-</div>
-<!--FIM DO WRAPPER-->
 </body>
 </html>
