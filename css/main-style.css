@@ -228,10 +228,10 @@ h6 {
 #logo {
 float: left;
 display: block;
-margin: 10px 0px 0px 0px;
+margin: 6px 0px 0px 50px;
 background: url("../images/lg_instituto.png") no-repeat;
 width: 155px;
-height: 105px;
+height: 96px;
 }
 .title-div{
 	float:left;

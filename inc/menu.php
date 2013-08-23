@@ -1,8 +1,8 @@
 <section id="top_panel">
 			<div class="container">
 				<ul class="social_icons">
-					<li class="twitter"><a href="https://twitter.com/institutors" title="Twitter"></a></li>
-					<li class="facebook"><a href="https://www.facebook.com/pages/Instituto-Raz%C3%A3o-Social/135206043213648" title="Facebook"></a></li>
+					<li class="twitter"><a href="https://twitter.com/institutors" target="_blank" title="Twitter"></a></li>
+					<li class="facebook"><a href="https://www.facebook.com/pages/Instituto-Raz%C3%A3o-Social/135206043213648" target="_blank" title="Facebook"></a></li>
 				</ul>
 				<ul class="links">
 					<li><a href="http://www.promon.com.br/exchange" target="_blank"  title="WebMail">WebMail</a></li>
@@ -29,7 +29,7 @@
 								<a href="#" title="Projetos">Projetos</a>
 							</li>
 							<li>
-								<a href="#" title="Contato">Contato</a>
+								<a href="contato.php" title="Contato">Contato</a>
 							</li>
 						</ul>
 						</nav>
