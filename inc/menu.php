@@ -35,9 +35,9 @@
 																			}?>>Quem Somos</a>
 							</li>
 							<li>
-								<a href="#" title="Projetos" <?php 	$page = $_SERVER['PHP_SELF'];
+								<a href="projetos.php" title="Projetos" <?php 	$page = $_SERVER['PHP_SELF'];
 
-																			if (strpos($page, 'NOME DA PAGINA!!')) {
+																			if (strpos($page, 'projetos')) {
 																				echo 'class="active"';
 																			}?>>Projetos</a>
 							</li>
