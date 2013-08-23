@@ -136,10 +136,10 @@
         <h2><strong>Mantenedores</strong></h2>
         <div class="one">
             <div class="one-half">
-                <div class="interno"><img src="images/mantenedor/gerdau.png" title="Gerdau" alt="Gerdau"></div>
+                <div class="interno"><a href="http://www.gerdau.com.br/" target="_blank"><img src="images/mantenedor/gerdau.png" title="Gerdau" alt="Gerdau"></a></div>
             </div>
             <div class="one-half last">
-                <div class="interno"><img src="images/mantenedor/grupo-promon.png" title="Grupo Promon" alt="Grupo Promon"></div>
+                <div class="interno"><a href="http://www.promon.com.br/" target="_blank"><img src="images/mantenedor/grupo-promon.png" title="Grupo Promon" alt="Grupo Promon"></a></div>
             </div>
         </div>
 </div>
@@ -147,7 +147,7 @@
         <h2><strong>Parceiro Tecnológico</strong></h2>
         <div class="on">
             <div class="mantenedor">    
-            <div class="interno"><img src="images/parceiro-tecnologico/ibm.png" title="IBM" alt="IBM"></div>
+            <div class="interno"><a href="http://www.ibm.com/smarterplanet/br/pt/" target="_blank"><img src="images/parceiro-tecnologico/ibm.png" title="IBM" alt="IBM"></a></div>
         </div>
 </div>
 </div>
