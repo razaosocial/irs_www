@@ -28,7 +28,7 @@
 			<div class="container">
 				<div class="one-half">
 					<p>
-						&copy; 2012 <a href="http://themeforest.net/?ref=trendyWebStar" target="_blank" class="colored-text">trendyWebStar</a>. All rights reserved.
+						&copy; 2013 Instituto Raz&#227;o Social. Todos os direitos reservados.
 					</p>
 				</div>
 				<div class="one-half last">
