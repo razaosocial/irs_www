@@ -3528,3 +3528,23 @@ ul.pricing-box li.one-third.best-plan {
 .mantenedor .interno{
     padding: 20px;
 }
+.img-position{
+    margin: 150px 0 0 0;
+}
+/*___________________________________________________________________*/
+
+/*---------------Pág 404 - Yoda---------------*/
+/*___________________________________________________________________*/
+.yoda{
+    /* Transition */
+  transition-property: padding;
+-webkit-transition: 3s linear;
+-moz-transition: 3s linear;
+-o-transition: 3s linear;
+-ms-transition: 3s linear;
+transition: 3s linear;   
+}
+.yoda:hover{
+    /* Transition */
+  padding: 0 0 0 40px;
+}
