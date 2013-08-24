@@ -28,9 +28,9 @@
 							</li>
 
 							<li>
-								<a href="#" title="Quem Somos" <?php 	$page = $_SERVER['PHP_SELF'];
+								<a href="quem-somos.php" title="Quem Somos" <?php 	$page = $_SERVER['PHP_SELF'];
 
-																			if (strpos($page, 'NOME DA PAGINA!!')) {
+																			if (strpos($page, 'quem-somos')) {
 																				echo 'class="active"';
 																			}?>>Quem Somos</a>
 							</li>
