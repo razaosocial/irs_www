@@ -74,63 +74,72 @@
         <h2><strong>Nossos Projetos</strong></h2>
         <h5>Conheça um pouco sobre cada um de nossos projetos e como funcionam.</h5>
 </div>
-<div class="portfolio-grid">
-        <ul class="portfolio-items">
-                <li data-categories="design development" class="thumb one-fourth">
-                <a href="images/projetos/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>Formar em Rede</h3>
-                </a>
-                <p class="meta">
-                        Em andamento
-                </p>
-                </li>
-                <li data-categories="design development" class="thumb one-fourth">
-                <a href="images/projetos/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>OSC</h3>
-                </a>
-                <p class="meta">
-                        Em Andamento
-                </p>
-                </li>
-                <li data-categories="illustration design" class="thumb one-fourth">
-                <a href="images/projetos/portfolio-item-2.jpg" data-rel="prettyPhoto" class="screen-roll"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/projetos/portfolio-item-2.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>Conviva</h3>
-                </a>
-                <p class="meta">
-                        Em Andamento
-                </p>
-                </li>
-                <li data-categories="design development" class="thumb one-fourth">
-                <a href="images/projetos/portfolio-item-3.jpg" class="screen-roll" data-rel="prettyPhoto" title="Some Image Dummy Title"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/projetos/portfolio-item-3.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>Trilhas</h3>
-                </a>
-                <p class="meta">
-                        Em Andamento
-                </p>
-                </li>
-        </ul>
-</div>
+    <div class="portfolio-grid">
+            <ul class="portfolio-items">
+                    <li data-categories="Em andamento" class="thumb one-fourth">
+                    <a href="formar-em-rede.php" class="screen-roll"><span class="hover_bg"></span>
+                    <div class="bg-grey">
+                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
+                    </div>
+                    </a>
+                    <a href="single-project.html">
+                    <h3>Formar em Rede</h3>
+                    </a>
+                    <p class="meta">
+                            Em andamento
+                    </p>
+                    </li>
+                    <li data-categories="Em andamento" class="thumb one-fourth">
+                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
+                    <div class="bg-grey">
+                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
+                    </div>
+                    </a>
+                    <a href="single-project.html">
+                    <h3>OSC</h3>
+                    </a>
+                    <p class="meta">
+                            Em Andamento
+                    </p>
+                    </li>
+                    <li data-categories="Em andamento" class="thumb one-fourth">
+                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
+                    <div class="bg-grey">
+                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
+                    </div>
+                    </a>
+                    <a href="single-project.html">
+                    <h3>Conviva</h3>
+                    </a>
+                    <p class="meta">
+                            Em Andamento
+                    </p>
+                    </li>
+                    <li data-categories="Em andamento" class="thumb one-fourth">
+                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
+                    <div class="bg-grey">
+                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
+                    </div>
+                    </a>
+                    <a href="single-project.html">
+                    <h3>Trilhas</h3>
+                    </a>
+                    <p class="meta">
+                            Em Andamento
+                    </p>
+                    </li>
+            </ul>  
+    </div>
+    <div class="one">
+        <div class="three-fourth">
+        </div>
+        <div class="one-fourth last">    
+            <a href="projetos.php" class="button small grey round">+ Projetos</a>
+        </div>
+    </div> 
 </section>
+<div class="horizontal-line">
+</div>
 <section class="one">
 <div class="title-div">
         <h2><strong>Mantenedores</strong></h2>
@@ -152,87 +161,6 @@
 </div>
 </div>
 
-    
-<div class="one-fifth">
-        <div class="thumbnail">
-                <a href="#" class="thumbnail-roll">
-                <span>Web Development</span>
-                <img src="images/clients/partner-01.jpg" alt="">
-                </a>
-        </div>
-</div>
-<div class="one-fifth">
-        <div class="thumbnail">
-                <a href="#" class="thumbnail-roll">
-                <span>graphicriver</span>
-                <img src="images/clients/partner-02.jpg" alt="">
-                </a>
-        </div>
-</div>
-<div class="one-fifth">
-        <div class="thumbnail">
-                <a href="#" class="thumbnail-roll">
-                <span>codecanyon</span>
-                <img src="images/clients/partner-03.jpg" alt="">
-                </a>
-        </div>
-</div>
-<div class="one-fifth">
-        <div class="thumbnail">
-                <a href="#" class="thumbnail-roll">
-                <span>photodune</span>
-                <img src="images/clients/partner-04.jpg" alt="">
-                </a>
-        </div>
-</div>
-<div class="one-fifth last">
-        <div class="thumbnail">
-                <a href="#" class="thumbnail-roll">
-                <span>Responsive Design</span>
-                <img src="images/clients/partner-05.jpg" alt="">
-                </a>
-        </div>
-</div>
-<div class="one-fifth">
-        <div class="thumbnail">
-                <a href="#" class="thumbnail-roll">
-                <span>Valid HTML5</span>
-                <img src="images/clients/partner-06.jpg" alt="">
-                </a>
-        </div>
-</div>
-<div class="one-fifth">
-        <div class="thumbnail">
-                <a href="#" class="thumbnail-roll">
-                <span>Jquery Features</span>
-                <img src="images/clients/partner-05.jpg" alt="">
-                </a>
-        </div>
-</div>
-<div class="one-fifth">
-        <div class="thumbnail">
-                <a href="#" class="thumbnail-roll">
-                <span>CSS3 Animations</span>
-                <img src="images/clients/partner-04.jpg" alt="">
-                </a>
-        </div>
-</div>
-<div class="one-fifth">
-        <div class="thumbnail">
-                <a href="#" class="thumbnail-roll">
-                <span>Development</span>
-                <img src="images/clients/partner-03.jpg" alt="">
-                </a>
-        </div>
-</div>
-<div class="one-fifth last">
-        <div class="thumbnail">
-                <a href="#" class="thumbnail-roll">
-                <span>Graphic Design</span>
-                <img src="images/clients/partner-02.jpg" alt="">
-                </a>
-        </div>
-</div>
 </section>
 </section>
 <!--CONTENT ENDS-->

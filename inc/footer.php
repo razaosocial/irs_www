@@ -28,7 +28,7 @@
 			<div class="container">
 				<div class="one-half">
 					<p>
-						&copy; 2013 Instituto Razão Social. Todos os direitos reservados.
+						Instituto Razão Social &copy; 2013 | Todos os direitos reservados.
 					</p>
 				</div>
 				<div class="one-half last">
