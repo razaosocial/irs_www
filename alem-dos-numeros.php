@@ -48,10 +48,7 @@
                     <a href="#tab1">Como funciona?</a>
                     </li>
                     <li>
-                    <a href="#tab2">Como participar?</a>
-                    </li>
-                    <li>
-                    <a href="#tab3">Resultados</a>
+                    <a href="#tab2">Resultados</a>
                     </li>
             </ul>
             <!-- end .tabs-nav -->
@@ -59,26 +56,34 @@
                     <div class="tab-content" id="tab1">
                             <p>
                                 O programa atinge diretamente as equipes técnicas das Secretarias Municipais de Educação 
-                                e indiretamente, coordenadores e professores, incentivando uma cultura de formação 
-                                permanente no município. Para sua implementação, conta com uma comunidade de aprendizagem 
-                                online onde os técnicos das Secretarias são os sujeitos da formação e reeditores reflexivos 
-                                das propostas em suas redes locais.
+                                e indiretamente, coordenadores e professores, incentivando uma cultura de formação permanente 
+                                no município. Para sua implementação, conta com uma comunidade de aprendizagem online onde os 
+                                técnicos das Secretarias são os sujeitos da formação e reeditores reflexivos das propostas em 
+                                suas redes locais.
                             </p>
                     </div>
                     <!-- end #tab1 -->
                     <div class="tab-content" id="tab2">
+                            <p>
+                               O Programa está em sua segunda edição, e conta com a participação de 10 municípios onde se 
+                               encontram escolas parceiras do Instituto Escola Brasil, do Santander, além de outros 2 munícipios 
+                               autônomos (Ariquemes e Sertãozinho).
+                            <br />
+                            <p>
+                                <br />Beneficiados em 2011:</p>
+                            </p>
+                            <p>
+                                Escolas: 233
+                            </p>
+                            <p>
+                                Professores: 3331 
+                            </p>
+                            <p>
+                                Alunos: 79.679 
+                            </p>
 
                     </div>
                     <!-- end #tab2 -->
-                    <div class="tab-content" id="tab3">
-                            <p>
-                                O Programa está em sua segunda edição, e conta com a participação de 10 municípios onde 
-                                se encontram escolas parceiras do Instituto Escola Brasil, do Santander, além de outros 
-                                2 munícipios autônomos (Ariquemes e Sertãozinho).
-                                Beneficiados em 2011: 233 escolas, 3331 professores e 79.679 alunos. 
-                            </p>
-                    </div>
-                    <!-- end #tab3 -->
             </div>
             <!-- end .tabs-container -->
     </div>
