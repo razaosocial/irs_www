@@ -7,7 +7,7 @@
         <div class="container">
                 <div class="projects-details-intro">
                         <div class="two-third">
-                                <h2>Projetos / <strong>Curso Nome Próprio</strong></h2>
+                                <h2>Projetos / <strong>Curso Leitura pelo Professor</strong></h2>
                         </div>
                         <div class="one-third last">
                                 <ul class="project-pagination">
@@ -22,14 +22,13 @@
 </section>
 <section id="content" class="container">
 <div class="one-half">
-        <img src="images/projetos/projetos-detalhes/nome-proprio.png" alt="Curso Nome Próprio"/>
+        <img src="images/projetos/projetos-detalhes/leitura-pelo-professor.png" alt="Curso leitura pelo Professor"/>
 </div>
 <div class="one-half last">
         <div class="service-txt">
-                <h3>Nome Próprio</h3>
+                <h3>Curso Leitura pelo Professor</h3>
                 <p>
-                       Curso online de apoio ao professor alfabetizador no trabalho com o nome próprio da criança, ampliando o repertório de propostas a serem desenvolvidas em sala de aula.
-
+                    Curso online de apoio ao trabalho do professor, que objetiva ampliar o repertório de propostas a serem desenvolvidas em sala de aula, a partir de uma concepção de criança como leitora e produtora de cultura.
                 </p>
         </div>
 </div>
@@ -49,7 +48,9 @@
 
                                     O Razão Social, além de responsável pela migração do conteúdo para a mídia online, realiza a coordenação tecnológica das edições.
 
-                                    No primeiro semestre de 2011 realizou-se uma edição do curso para 120 profissionais de escolas públicas dos municípios do Programa Escola Brasil em diversos estados brasileiros, em parceria com o Instituto Escola Brasil / Santander. 
+                                    No segundo semestre de 2011 se realiza uma edição do curso para 120 profissionais de escolas públicas dos municípios do Programa Escola Brasil em diversos estados brasileiros, em parceria com o Instituto Escola Brasil / Santander.
+
+                                    O curso está organizado em torno de atividades em sala de aula em tempo real, estudo de texto, fóruns de discussão e outras atividades virtuais interativas que visam elucidar as principais questões que envolvem a formação do aluno leitor e a aprendizagem da linguagem que se escreve.  
                             </p>
                     </div>
                     <!-- end #tab1 -->

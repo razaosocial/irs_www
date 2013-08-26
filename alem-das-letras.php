@@ -22,7 +22,7 @@
 </section>
 <section id="content" class="container">
 <div class="one-half">
-        <img src="images/service/service-03.png" alt=" "/>
+        <img src="images/projetos/projetos-detalhes/alem-das-letras.png" alt="Projeto Além das Letras "/>
 </div>
 <div class="one-half last">
         <div class="service-txt">
@@ -44,9 +44,6 @@
                     <a href="#tab1">Como funciona?</a>
                     </li>
                     <li>
-                    <a href="#tab2">Como participar?</a>
-                    </li>
-                    <li>
                     <a href="#tab3">Resultados</a>
                     </li>
             </ul>
@@ -56,10 +53,6 @@
                             <p>
                                     O programa atinge diretamente as equipes técnicas das Secretarias Municipais de Educação e indiretamente, coordenadores e professores. Para sua implementação, conta com um Portal e uma comunidade de aprendizagem online. O Portal é aberto e consta de várias seções com informações, conteúdos, (entrevistas, artigos e textos) cursos, blog do professor, etc. Já a comunidade de aprendizagem é um espaço reservado à consultoria online para as formadoras das Secretarias Municipais de Educação da rede ADL.
                             </p>
-                    </div>
-                    <!-- end #tab1 -->
-                    <div class="tab-content" id="tab2">
-
                     </div>
                     <!-- end #tab2 -->
                     <div class="tab-content" id="tab3">
@@ -93,83 +86,19 @@
     <div class="title-div">
             <h2><strong>Parceiros</strong></h2>
     </div>
-    <div class="one-fifth">
+   <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>Web Development</span>
-                    <img src="images/clients/partner-01.jpg" alt="">
+                    <span>Avisa Lá</span>
+                    <img src="images/clients/partner-01.jpg" alt="Parceiro Instituto Avisa Lá">
                     </a>
             </div>
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>graphicriver</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>codecanyon</span>
-                    <img src="images/clients/partner-03.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>photodune</span>
-                    <img src="images/clients/partner-04.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth last">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Responsive Design</span>
-                    <img src="images/clients/partner-05.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Valid HTML5</span>
-                    <img src="images/clients/partner-06.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Jquery Features</span>
-                    <img src="images/clients/partner-05.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>CSS3 Animations</span>
-                    <img src="images/clients/partner-04.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Development</span>
-                    <img src="images/clients/partner-03.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth last">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Graphic Design</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
+                    <span>Projeto Escola Brasil</span>
+                    <img src="images/clients/partner-02.jpg" alt="Parceiro Projeto Escola Brasil">
                     </a>
             </div>
     </div>
