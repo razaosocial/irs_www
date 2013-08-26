@@ -39,12 +39,6 @@
                     <li class="active">
                     <a href="#tab1">Como funciona?</a>
                     </li>
-                    <li>
-                    <a href="#tab2">Como participar?</a>
-                    </li>
-                    <li>
-                    <a href="#tab3">Resultados</a>
-                    </li>
             </ul>
             <!-- end .tabs-nav -->
             <div class="tabs-container">
@@ -60,14 +54,6 @@
                             </p>
                     </div>
                     <!-- end #tab1 -->
-                    <div class="tab-content" id="tab2">
-
-                    </div>
-                    <!-- end #tab2 -->
-                    <div class="tab-content" id="tab3">
-                          
-                    </div>
-                    <!-- end #tab3 -->
             </div>
             <!-- end .tabs-container -->
     </div>
