@@ -22,7 +22,7 @@
 </section>
 <section id="content" class="container">
 <div class="one-half">
-        <img src="images/service/service-03.png" alt=" "/>
+        <img src="images/projetos/projetos-detalhes/formar-em-rede-detalhes.png" alt="Formar em Rede"/>
 </div>
 <div class="one-half last">
         <div class="service-txt">
