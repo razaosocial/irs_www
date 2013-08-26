@@ -24,7 +24,6 @@
                                         <li><a data-categories="cursos-de-longa-duração" title="Cursos de longa duração">Cursos de longa duração</a></li>
 					<li><a data-categories="consultorias-online" title="Consultorias Online">Consultorias Online</a></li>
 					<li><a data-categories="gestao-de-portais-e-redes" title="Gestão de Portais e Redes">Gestão de Portais e Redes</a></li>
-					<li><a data-categories="acoes-de-mobilizacao" title="Ações de Mobilização">Ações de Mobilização</a></li>
 				</ul>
 			</div>
 			<div class="portfolio-grid">
@@ -35,11 +34,37 @@
 						<img src="images/projetos/formar-em-rede.png" alt=" "/>
 					</div>
 					</a>
-					<a href="single-project.html">
+					<a href="formar-em-rede.php">
 					<h3>Formar em Rede</h3>
 					</a>
 					<p class="meta">
-						Situação: Em andamento
+						Em andamento
+					</p>
+					</li>
+                                        <li data-categories="consultorias-online" class="thumb one-fourth">
+					<a href="alem-dos-numeros.php" class="screen-roll"><span class="hover_bg"></span>
+					<div class="bg-grey">
+						<img src="images/projetos/adn.png" alt=" "/>
+					</div>
+					</a>
+					<a href="alem-dos-numeros.php">
+					<h3>Além dos Números</h3>
+					</a>
+					<p class="meta">
+						Em andamento
+					</p>
+					</li>
+                                        <li data-categories="cursos-de-longa-duração" class="thumb one-fourth">
+					<a href="progestao.php" class="screen-roll"><span class="hover_bg"></span>
+					<div class="bg-grey">
+						<img src="images/projetos/progestao.png" alt=" "/>
+					</div>
+					</a>
+					<a href="progestao.php">
+					<h3>Progestão Online</h3>
+					</a>
+					<p class="meta">
+						Em andamento
 					</p>
 					</li>
 				</ul>
