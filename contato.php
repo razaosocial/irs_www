@@ -11,6 +11,7 @@ include_once 'inc/menu.php';
 		</p>
 	</div>
 </div>
+</section>
 <!-- Mensagens de aviso do envio de email -->
 <div id="msg" class="success-message" style="display: none">E-mail Enviado Com sucesso!!</div>
 <div id="msg_erro" class="falha-de-envio" style="display: none">Falha ao enviar o E-mail!!</div>
