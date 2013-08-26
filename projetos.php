@@ -9,11 +9,10 @@
         </div>
 </div>-->
   <div class="container">
-  <div class="title-div"
-        <h2>
-            RAZAO SOCIAL O CAMINHO PARA O FUTURO!
-        </h2><br />
-  </div>
+    <div class="title-div">
+            <h2><strong>Projetos</strong></h2>
+            <h5>Conheça um pouco sobre cada um de nossos projetos.</h5>
+    </div>
   </section>   
  
 			<section id="content" class="container">

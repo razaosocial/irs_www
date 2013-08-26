@@ -4,12 +4,8 @@ include_once 'inc/menu.php';
 ?>
 
 <div class="title-div">
-	<div class="container">
-		<h2>Contato</h2>
-		<p>
-			Caso queira fazer alguma pergunta, comentário ou sugestão, sinta-se a vontade, preencha os campos abaixo e envie sua mensagem!
-		</p>
-	</div>
+        <h2><strong>Contato</strong></h2>
+        <h5>Caso queira fazer alguma pergunta, comentário ou sugestão, sinta-se a vontade, preencha os campos abaixo e envie sua mensagem.</h5>
 </div>
 </section>
 <!-- Mensagens de aviso do envio de email -->

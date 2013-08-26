@@ -79,91 +79,91 @@
             </div>
             <!-- end .tabs-container -->
     </div>
-    			<section class="one">
-			<div class="title-div">
-				<h2><strong>Parceiros</strong></h2>
-			</div>
-			<div class="one-fifth">
-				<div class="thumbnail">
-					<a href="#" class="thumbnail-roll">
-					<span>Web Development</span>
-					<img src="images/clients/partner-01.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			<div class="one-fifth">
-				<div class="thumbnail">
-					<a href="#" class="thumbnail-roll">
-					<span>graphicriver</span>
-					<img src="images/clients/partner-02.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			<div class="one-fifth">
-				<div class="thumbnail">
-					<a href="#" class="thumbnail-roll">
-					<span>codecanyon</span>
-					<img src="images/clients/partner-03.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			<div class="one-fifth">
-				<div class="thumbnail">
-					<a href="#" class="thumbnail-roll">
-					<span>photodune</span>
-					<img src="images/clients/partner-04.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			<div class="one-fifth last">
-				<div class="thumbnail">
-					<a href="#" class="thumbnail-roll">
-					<span>Responsive Design</span>
-					<img src="images/clients/partner-05.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			<div class="one-fifth">
-				<div class="thumbnail">
-					<a href="#" class="thumbnail-roll">
-					<span>Valid HTML5</span>
-					<img src="images/clients/partner-06.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			<div class="one-fifth">
-				<div class="thumbnail">
-					<a href="#" class="thumbnail-roll">
-					<span>Jquery Features</span>
-					<img src="images/clients/partner-05.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			<div class="one-fifth">
-				<div class="thumbnail">
-					<a href="#" class="thumbnail-roll">
-					<span>CSS3 Animations</span>
-					<img src="images/clients/partner-04.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			<div class="one-fifth">
-				<div class="thumbnail">
-					<a href="#" class="thumbnail-roll">
-					<span>Development</span>
-					<img src="images/clients/partner-03.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			<div class="one-fifth last">
-				<div class="thumbnail">
-					<a href="#" class="thumbnail-roll">
-					<span>Graphic Design</span>
-					<img src="images/clients/partner-02.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			</section>
+    <section class="one">
+    <div class="title-div">
+            <h2><strong>Parceiros</strong></h2>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Web Development</span>
+                    <img src="images/clients/partner-01.jpg" alt="">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>graphicriver</span>
+                    <img src="images/clients/partner-02.jpg" alt="">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>codecanyon</span>
+                    <img src="images/clients/partner-03.jpg" alt="">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>photodune</span>
+                    <img src="images/clients/partner-04.jpg" alt="">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth last">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Responsive Design</span>
+                    <img src="images/clients/partner-05.jpg" alt="">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Valid HTML5</span>
+                    <img src="images/clients/partner-06.jpg" alt="">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Jquery Features</span>
+                    <img src="images/clients/partner-05.jpg" alt="">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>CSS3 Animations</span>
+                    <img src="images/clients/partner-04.jpg" alt="">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Development</span>
+                    <img src="images/clients/partner-03.jpg" alt="">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth last">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Graphic Design</span>
+                    <img src="images/clients/partner-02.jpg" alt="">
+                    </a>
+            </div>
+    </div>
+    </section>
     
     
 </section>
