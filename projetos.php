@@ -14,7 +14,7 @@
             RAZAO SOCIAL O CAMINHO PARA O FUTURO!
         </h2><br />
   </div>
-  </div>    
+  </section>   
  
 			<section id="content" class="container">
 			<div class="filter-portfolio">
@@ -189,7 +189,7 @@
 				</ul>
 			</div>
                         </section>                            
-			<!--CONTENT ENDS-->
+			<!--CONTENT ENDS-->			
 			
 <?php 
 	 include_once('inc/footer.php');
