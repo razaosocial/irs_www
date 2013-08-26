@@ -54,8 +54,3 @@
 				</div>
 			</div>
 			</header>
-<<<<<<< HEAD
-			</section>
-=======
-			
->>>>>>> 98cedf3cd7c16603c047491cad2581d0648b9454
