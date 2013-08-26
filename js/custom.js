@@ -378,9 +378,10 @@ if ( $( '#google-map' ).length && jQuery() ) {
 var $map = $('#google-map');
 
 			$map.gMap({
-			address: 'Level 13, 2 Elizabeth St, Melbourne Victoria 3000 Australia', 
+				//Av. Pres. Juscelino Kubitschek, 1830 - Itaim Bibi
+			address: 'Level 13, Av Presidente Juscelino Kubitschek 1830 - Itaim Bibi', 
 			zoom: 16,
-			markers: [{ 'address' : 'Level 13, 2 Elizabeth St, Melbourne Victoria 3000 Australia' }, ]	
+			markers: [{ 'address' : 'Level 13, Av Presidente Juscelino Kubitschek 1830 - Itaim Bibi' }, ]	
 
 			});
 }
@@ -440,46 +441,45 @@ var $map = $('#google-map');
 		20-Contact Form Validation
 --------------------------------------------------------------------
 */
-if ( $( '#contact-form' ).length && jQuery() ) {
-$('form#contact-form').submit(function() {
-function resetForm($form) {
-    $form.find('input:text, input:password, input:file, select, textarea').val('');
-    $form.find('input:radio, input:checkbox')
-    .removeAttr('checked').removeAttr('selected');
-}
-$('form#contact-form .error-message').remove();
-var hasError = false;
-$('.requiredField').each(function() {
-if(jQuery.trim($(this).val()) == '') {
- var labelText = $(this).prev('label').text();
- $(this).parent().append('<div class="error-message">You forgot to enter '+labelText+'</div>');
- $(this).addClass('inputError');
- hasError = true;
- } else if($(this).hasClass('email')) {
- var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
- if(!emailReg.test(jQuery.trim($(this).val()))) {
- var labelText = $(this).prev('label').text();
- $(this).parent().append('<div class="error-message">You entered an invalid '+labelText+'</div>');
- $(this).addClass('inputError');
- hasError = true;
+ if ( $( '#contatc-form' ).length && jQuery() ) {
+ $('form#contatc-form').submit(function() {
+  function resetForm($form) {
+     $form.find('input:text, input:password, input:file, select, textarea').val('');
+     $form.find('input:radio, input:checkbox').removeAttr('checked').removeAttr('selected');
  }
+ $('form#contact-form .error-message').remove();
+ var hasError = false;
+ $('.requiredField').each(function() {
+ if(jQuery.trim($(this).val()) == '') {
+  var labelText = $(this).prev('label').text();
+  $(this).parent().append('<div class="error-message">Campo obrigatorio: '+labelText+'</div>');
+  $(this).addClass('inputError');
+  hasError = true;
+  } else if($(this).hasClass('email')) {
+  var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+  if(!emailReg.test(jQuery.trim($(this).val()))) {
+  var labelText = $(this).prev('label').text();
+  $(this).parent().append('<div class="error-message">Este campo esta invalido: '+labelText+'</div>');
+  $(this).addClass('inputError');
+  hasError = true;
+  }
+  }
+ });
+ if(!hasError) {
+ $('form#contact-form input.submit').fadeOut('normal', function() {
+ $(this).parent().append('');
+ });
+ var formInput = $(this).serialize();
+ $.post($(this).attr('action'),formInput, function(data){
+ $('#contact-form').prepend('<div class="success-message">Your email was successfully sent. We will contact you as soon as possible.</div>');
+ resetForm($('#contact-form'));
+ $('.success-message').fadeOut(5000);
+
+ });
  }
-});
-if(!hasError) {
-$('form#contact-form input.submit').fadeOut('normal', function() {
-$(this).parent().append('');
-});
-var formInput = $(this).serialize();
-$.post($(this).attr('action'),formInput, function(data){
-$('#contact-form').prepend('<div class="success-message">Your email was successfully sent. We will contact you as soon as possible.</div>');
-resetForm($('#contact-form'));
-$('.success-message').fadeOut(5000);
- 
-});
-}
-return false;
-});
-}
+ return false;
+ });
+ }
 /*
 -------------------------------------------------------------------
 		21-Portfolio Filter
