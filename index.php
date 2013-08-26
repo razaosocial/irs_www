@@ -79,7 +79,7 @@
                     <li data-categories="Em andamento" class="thumb one-fourth">
                     <a href="formar-em-rede.php" class="screen-roll"><span class="hover_bg"></span>
                     <div class="bg-grey">
-                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
+                            <img src="images/projetos/formar-em-rede.png" alt="Formar em Rede"/>
                     </div>
                     </a>
                     <a href="single-project.html">

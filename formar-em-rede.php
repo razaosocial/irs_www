@@ -22,7 +22,7 @@
 </section>
 <section id="content" class="container">
 <div class="one-half">
-        <img src="images/service/service-03.png" alt=" "/>
+        <img src="images/projetos/projetos-detalhes/formar-em-rede-detalhes.png" alt="Formar em Rede"/>
 </div>
 <div class="one-half last">
         <div class="service-txt">
@@ -45,10 +45,7 @@
                     <a href="#tab1">Como funciona?</a>
                     </li>
                     <li>
-                    <a href="#tab2">Como participar?</a>
-                    </li>
-                    <li>
-                    <a href="#tab3">Resultados</a>
+                    <a href="#tab2">Resultados</a>
                     </li>
             </ul>
             <!-- end .tabs-nav -->
@@ -60,10 +57,6 @@
                     </div>
                     <!-- end #tab1 -->
                     <div class="tab-content" id="tab2">
-
-                    </div>
-                    <!-- end #tab2 -->
-                    <div class="tab-content" id="tab3">
                             <p>
                                     Em 2011, além dos 9 municípios que participam autonomamente do processo, teve inicio uma parceria com o Santander e MEC / Programa Pró-infância. Desta forma, estão sendo beneficiados mais 19 municípios baianos, com um diferencial, específico nesta edição: o trabalho com profissionais na área da saúde dos municípios visando um melhor atendimento às crianças nas unidades de educação infantil.
                             </p>
@@ -75,7 +68,7 @@
                                 Professores Beneficiados: 2176 
                             </p>
                     </div>
-                    <!-- end #tab3 -->
+                    <!-- end #tab2 -->
             </div>
             <!-- end .tabs-container -->
     </div>
@@ -86,7 +79,7 @@
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>Web Development</span>
+                    <span>Avisa Lá</span>
                     <img src="images/clients/partner-01.jpg" alt="">
                     </a>
             </div>
@@ -94,71 +87,7 @@
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>graphicriver</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>codecanyon</span>
-                    <img src="images/clients/partner-03.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>photodune</span>
-                    <img src="images/clients/partner-04.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth last">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Responsive Design</span>
-                    <img src="images/clients/partner-05.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Valid HTML5</span>
-                    <img src="images/clients/partner-06.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Jquery Features</span>
-                    <img src="images/clients/partner-05.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>CSS3 Animations</span>
-                    <img src="images/clients/partner-04.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Development</span>
-                    <img src="images/clients/partner-03.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth last">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Graphic Design</span>
+                    <span>Santander</span>
                     <img src="images/clients/partner-02.jpg" alt="">
                     </a>
             </div>
