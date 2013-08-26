@@ -27,9 +27,8 @@
 <div class="one-half last">
         <div class="service-txt">
                 <h3>Além da Letras</h3>
-                <h4>Rede de formação continuada para Educação Infantil</h4>
                 <p>
-                        Formação continuada para profissionais das Redes Públicas de Educação Infantil por meio do desenvolvimento de projetos de ação nos contextos locais.
+                        Uma rede de troca de conhecimento entre municípios, capaz de ampliar a eficiência e a eficácia dos processos de alfabetização em escolas públicas municipais, por meio de um investimento na Formação Continuada dos profissionais da educação. O foco é alfabetização, com ênfase na leitura e escrita nas primeiras séries do ensino fundamental.
                 </p>
                 <br/>
                 <p>
@@ -55,7 +54,7 @@
             <div class="tabs-container">
                     <div class="tab-content" id="tab1">
                             <p>
-                                    Por meio da implantação de uma comunidade virtual de formadores (equipes técnicas das secretarias municipais de educação), com ações presenciais e a distância. O Formar em Rede gera um contexto real de uso da tecnologia para a troca de experiências, circulação e produção de conhecimentos relacionados ao brincar, à aproximação com a cultura escrita, entre outros. Desta forma, o Programa apoia a formação continuada de coordenadores pedagógicos, diretores e professores, contribuindo para o desenvolvimento de práticas de qualidade nas creches e pré-escolas públicas do nosso país.
+                                    O programa atinge diretamente as equipes técnicas das Secretarias Municipais de Educação e indiretamente, coordenadores e professores. Para sua implementação, conta com um Portal e uma comunidade de aprendizagem online. O Portal é aberto e consta de várias seções com informações, conteúdos, (entrevistas, artigos e textos) cursos, blog do professor, etc. Já a comunidade de aprendizagem é um espaço reservado à consultoria online para as formadoras das Secretarias Municipais de Educação da rede ADL.
                             </p>
                     </div>
                     <!-- end #tab1 -->
@@ -65,14 +64,25 @@
                     <!-- end #tab2 -->
                     <div class="tab-content" id="tab3">
                             <p>
-                                    Em 2011, além dos 9 municípios que participam autonomamente do processo, teve inicio uma parceria com o Santander e MEC / Programa Pró-infância. Desta forma, estão sendo beneficiados mais 19 municípios baianos, com um diferencial, específico nesta edição: o trabalho com profissionais na área da saúde dos municípios visando um melhor atendimento às crianças nas unidades de educação infantil.
+                                    O Programa, iniciado em 2004, já atingiu mais de 200 municípios. Na edição 2011 o Programa beneficia 10 municípios indicados Instituto Escola Brasil / Santander, onde há escolas de seu relacionamento em função do Programa Escola Brasil.
                             </p>
                             <br />
                             <p>
-                                Escolas beneficiadas: 938
+                                Além destes, Cajamar e Sertãozinho – SP e Ariquemes – PA, são municípios autônomos participantes desta edição.
+                            </p>
+                            <br />
+                            <p>
+                                Escolas beneficiadas: 282
                             </p>
                             <p>
-                                Professores Beneficiados: 2176 
+                                Professores Beneficiados: 3514
+                            </p>
+                            <p>
+                                Alunos Beneficiados: 87000
+                            </p>
+                            <br />
+                            <p>
+                                Por reconhecimento do trabalho até então realizado o programa foi convidado a participar da Pesquisa "Governo, Setor Privado e Sociedade Civil para o Desenvolvimento Sustentável: Há uma Sinergia Colaborativa na América Latina". Avina - NYU (Wagner School of Public Service: PUC-Minas. 
                             </p>
                     </div>
                     <!-- end #tab3 -->
