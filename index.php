@@ -77,7 +77,7 @@
     <div class="portfolio-grid">
             <ul class="portfolio-items">
                     <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
+                    <a href="formar-em-rede.php" class="screen-roll"><span class="hover_bg"></span>
                     <div class="bg-grey">
                             <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
                     </div>
