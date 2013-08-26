@@ -76,8 +76,8 @@
 </div>
 <div class="portfolio-grid">
         <ul class="portfolio-items">
-                <li data-categories="design development" class="thumb one-fourth">
-                <a href="images/projetos/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
+                <li data-categories="Em andamento" class="thumb one-fourth">
+                <a href="#" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
                         <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
                 </div>
@@ -89,8 +89,8 @@
                         Em andamento
                 </p>
                 </li>
-                <li data-categories="design development" class="thumb one-fourth">
-                <a href="images/projetos/portfolio-item-1.jpg" data-rel="prettyPhoto" title="Some Dummy Title Goes Here" class="screen-roll"><span class="hover_bg"></span>
+                <li data-categories="Em andamento" class="thumb one-fourth">
+                <a href="#" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
                         <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
                 </div>
@@ -102,10 +102,10 @@
                         Em Andamento
                 </p>
                 </li>
-                <li data-categories="illustration design" class="thumb one-fourth">
-                <a href="images/projetos/portfolio-item-2.jpg" data-rel="prettyPhoto" class="screen-roll"><span class="hover_bg"></span>
+                <li data-categories="Em andamento" class="thumb one-fourth">
+                <a href="#" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
-                        <img src="images/projetos/portfolio-item-2.jpg" alt=" "/>
+                        <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
                 </div>
                 </a>
                 <a href="single-project.html">
@@ -115,10 +115,10 @@
                         Em Andamento
                 </p>
                 </li>
-                <li data-categories="design development" class="thumb one-fourth">
-                <a href="images/projetos/portfolio-item-3.jpg" class="screen-roll" data-rel="prettyPhoto" title="Some Image Dummy Title"><span class="hover_bg"></span>
+                <li data-categories="Em andamento" class="thumb one-fourth">
+                <a href="#" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
-                        <img src="images/projetos/portfolio-item-3.jpg" alt=" "/>
+                        <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
                 </div>
                 </a>
                 <a href="single-project.html">
