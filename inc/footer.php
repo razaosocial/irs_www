@@ -2,7 +2,7 @@
 			<section id="footer">
 			<div class="container">
 				<div class="one">
-					<div class="one-fourth">
+					<div class="one-fourth contact-end">
                                             <h4>Contato</h4>
 						<p>
 							Av. Presidente Jucelino Kubitschek, 1830
