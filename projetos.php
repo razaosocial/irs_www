@@ -67,6 +67,32 @@
 						Em andamento
 					</p>
 					</li>
+                                        <li data-categories="gestao-de-portais-e-redes" class="thumb one-fourth">
+					<a href="mesa-educadora.php" class="screen-roll"><span class="hover_bg"></span>
+					<div class="bg-grey">
+						<img src="images/projetos/mesa-educadora.png" alt=" "/>
+					</div>
+					</a>
+					<a href="mesa-educadora.php">
+					<h3>Mesa Educadora</h3>
+					</a>
+					<p class="meta">
+						Em andamento
+					</p>
+					</li>
+                                        <li data-categories="cursos-de-curta-duracao" class="thumb one-fourth">
+					<a href="nome-proprio.php" class="screen-roll"><span class="hover_bg"></span>
+					<div class="bg-grey">
+						<img src="images/projetos/nome-proprio.png" alt=" "/>
+					</div>
+					</a>
+					<a href="nome-proprio.php">
+					<h3>Mesa Educadora</h3>
+					</a>
+					<p class="meta">
+						Em andamento
+					</p>
+					</li>
 				</ul>
 			</div>
                         </section>                            
