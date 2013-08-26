@@ -268,7 +268,7 @@ include_once('inc/menu.php');
                                                 </p>
                                                 <br/>
                                                 <p>
-                                                        <a href="http://www.gerdau.com.br/" target="_blank" class="button small green circle">Acesse o site</a>
+                                                        <a href="http://www.gerdau.com.br/" target="_blank" class="button small green circle">Visite o site</a>
                                                 </p>
                                         </div>
                                 </div>
@@ -283,7 +283,7 @@ include_once('inc/menu.php');
                                                                 O domínio das técnicas de engenharia e gerenciamento, uma equipe altamente qualificada de profissionais e a capacidade de articular parcerias com empresas lideres nas suas áreas de atuação são a base do sucesso da Promon em todas as suas realizações.                                        </p>
                                                                 <br/>
                                                                 <p>
-                                                                        <a href="http://www.promon.com.br/" target="_blank" class="button small green circle">Acesse o site</a>
+                                                                        <a href="http://www.promon.com.br/" target="_blank" class="button small green circle">Visite o site</a>
                                                                 </p>
                                                         </div>
                                                 </div>
@@ -310,7 +310,7 @@ include_once('inc/menu.php');
                                                                 </p>
                                                                 <br/>
                                                                 <p>
-                                                                        <a href="http://www.ibm.com/smarterplanet/br/pt/" target="_blank" class="button small green circle">Acesse o site</a>
+                                                                        <a href="http://www.ibm.com/smarterplanet/br/pt/" target="_blank" class="button small green circle">Visite o site</a>
                                                                 </p>
                                                         </div>
                                                 </div>
