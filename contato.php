@@ -35,19 +35,19 @@ include_once 'inc/menu.php';
 	</div>
 	<form  id="contato" name="contato" class="simple-form" method="post" action="">
 		
-		<div class="one-fourth">
+		<div class="one-fourth contact-form">
 			<fieldset>
 				<label><span>* </span>Nome </label>
 				<input type="text" required="Campo obrigatorio" class="text requiredField" placeholder="José Roberto" id="name" name="name"/>
 			</fieldset>
 		</div>
-		<div class="one-fourth">
+		<div class="one-fourth contact-form">
 			<fieldset>
 				<label><span>* </span>Email </label>
 				<input type="email"  required="Campo obrigatorio" class="requiredField email" placeholder="exemplo@razaosocial.org.br" id="email" name="email"/>
 			</fieldset>
 		</div>
-		<div class="one-fourth">
+		<div class="one-fourth contact-form">
 			<fieldset>
 				<label><span>* </span>Assunto</label>
 				<input type="text" required="Campo obrigatorio" class="requiredField text" placeholder="Razão Social" id="assunto" name="assunto"/>

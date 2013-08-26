@@ -1810,6 +1810,10 @@ textarea {
 .contact-end{   /* class para aumentar o espaço do endereço sem afetar a class one-fourth - fernanda*/
     width: 23.75%;
 }
+
+.contact-form{
+    width: 21.75%;
+}
 /*_____________________________________________________________
 
 					09 - FEATURES: BUTTONS & LINKS
