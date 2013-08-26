@@ -29,9 +29,9 @@
                 <h3>Conviva Educação</h3>
                 <h4>Em breve</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                    Accusamus, accusantium, quia, dolorem, voluptates ipsum animi rem unde laborum natus aperiam placeat recusandae 
-                    voluptatum sed beatae ab soluta et libero est!
+                    O ambiente virtual Conviva Educação é uma ferramenta tecnológica, 
+                    totalmente gratuita, que objetiva auxiliar as Secretarias Municipais de Educação a gerir sua 
+                    rede/sistema de ensino, possibilitando maior foco na gestão pedagógica, fortalecendo o ensino e aprendizagem.
                 </p>
                 <br/>
                 <p>
@@ -54,10 +54,12 @@
             <div class="tabs-container">
                     <div class="tab-content" id="tab1">
                             <p>
-                                Em breve.
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                    Accusamus, accusantium, quia, dolorem, voluptates ipsum animi rem unde laborum natus aperiam placeat recusandae 
-                    voluptatum sed beatae ab soluta et libero est!
+                                Através de um conjunto de informações, ferramentas e da estruturação de processos de apoio, 
+                                o ambiente virtual promove a otimização do tempo utilizado com processos administrativos, 
+                                possibilitando que mais tempo seja utilizado para as questões relacionadas ao ensino e aprendizado.
+                                O ambiente também fornece ferramentas para o planejamento de atividades, 
+                                formação, troca de experiências e articulação com o intuito de fortalecer a 
+                                gestão pedagógica da rede/sistema de ensino.
                             </p>
                     </div>
                     <!-- end #tab1 -->
