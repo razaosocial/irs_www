@@ -74,63 +74,72 @@
         <h2><strong>Nossos Projetos</strong></h2>
         <h5>Conheça um pouco sobre cada um de nossos projetos e como funcionam.</h5>
 </div>
-<div class="portfolio-grid">
-        <ul class="portfolio-items">
-                <li data-categories="Em andamento" class="thumb one-fourth">
-                <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>Formar em Rede</h3>
-                </a>
-                <p class="meta">
-                        Em andamento
-                </p>
-                </li>
-                <li data-categories="Em andamento" class="thumb one-fourth">
-                <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>OSC</h3>
-                </a>
-                <p class="meta">
-                        Em Andamento
-                </p>
-                </li>
-                <li data-categories="Em andamento" class="thumb one-fourth">
-                <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>Conviva</h3>
-                </a>
-                <p class="meta">
-                        Em Andamento
-                </p>
-                </li>
-                <li data-categories="Em andamento" class="thumb one-fourth">
-                <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                <div class="bg-grey">
-                        <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                </div>
-                </a>
-                <a href="single-project.html">
-                <h3>Trilhas</h3>
-                </a>
-                <p class="meta">
-                        Em Andamento
-                </p>
-                </li>
-        </ul>
-</div>
+    <div class="portfolio-grid">
+            <ul class="portfolio-items">
+                    <li data-categories="Em andamento" class="thumb one-fourth">
+                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
+                    <div class="bg-grey">
+                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
+                    </div>
+                    </a>
+                    <a href="single-project.html">
+                    <h3>Formar em Rede</h3>
+                    </a>
+                    <p class="meta">
+                            Em andamento
+                    </p>
+                    </li>
+                    <li data-categories="Em andamento" class="thumb one-fourth">
+                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
+                    <div class="bg-grey">
+                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
+                    </div>
+                    </a>
+                    <a href="single-project.html">
+                    <h3>OSC</h3>
+                    </a>
+                    <p class="meta">
+                            Em Andamento
+                    </p>
+                    </li>
+                    <li data-categories="Em andamento" class="thumb one-fourth">
+                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
+                    <div class="bg-grey">
+                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
+                    </div>
+                    </a>
+                    <a href="single-project.html">
+                    <h3>Conviva</h3>
+                    </a>
+                    <p class="meta">
+                            Em Andamento
+                    </p>
+                    </li>
+                    <li data-categories="Em andamento" class="thumb one-fourth">
+                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
+                    <div class="bg-grey">
+                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
+                    </div>
+                    </a>
+                    <a href="single-project.html">
+                    <h3>Trilhas</h3>
+                    </a>
+                    <p class="meta">
+                            Em Andamento
+                    </p>
+                    </li>
+            </ul>  
+    </div>
+    <div class="one">
+        <div class="three-fourth">
+        </div>
+        <div class="one-fourth last">    
+            <a href="projetos.php" class="button small grey round">+ Projetos</a>
+        </div>
+    </div> 
 </section>
+<div class="horizontal-line">
+</div>
 <section class="one">
 <div class="title-div">
         <h2><strong>Mantenedores</strong></h2>
