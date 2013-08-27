@@ -6,11 +6,10 @@ include_once('inc/menu.php');
 <section class="container">
         <section class="one">
                 <div class="title-div">
-                        <h5>Criado em 2001 o Instituto Razão Social tem a Educação como causa. 
-                                Nasceu com a proposta de contribuir com os processos de ensino-aprendizagem 
-                                e de gestão escolar nas redes públicas de ensino, a partir do entendimento de que é 
-                                possível às empresas realizar projetos em parceria, conjugando esforços e potencializando impacto.</h5>
-                        </div>
+                    <h5>Criado em 2002 o Instituto Razão Social enxerga a tecnologia como meio de potencializar iniciativas sociais, processos de gestão, ensino e aprendizagem.
+                    Em sua missão o IRS conta com a parceria da IBM que desde 2004 é responsável pela atualização de toda a infraestrutura tecnológica de softwares e servidores que suportam os projetos. Além de sua valiosa participação em nosso conselho diretor.
+                    </h5>
+                </div>
                 </section>
                 <section class="one">
                         <div class="title-div">
