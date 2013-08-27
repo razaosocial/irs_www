@@ -34,7 +34,7 @@
 				<div class="one-half last">
 					<ul class="copyright_links">
 						<li><a href="pdf/prestacao_de_contas_2010.pdf" target="_blank">Prestação de Contas</a></li>
-						<li><a href="#" >Termo de Privacidade</a></li>
+						<li><a href="termo-de-uso.php" >Termo de Privacidade</a></li>
 					</ul>
 				</div>
 			</div>
