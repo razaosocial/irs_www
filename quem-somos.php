@@ -46,7 +46,7 @@ include_once('inc/menu.php');
         </section>
 </section>
                 <section id="content" class="container">
-                        <div class="one">
+                        <!--<div class="one">
                                 <div class="one-fourth">
                                         <div class="team-member grey-img">
                                                 <p>
@@ -264,10 +264,10 @@ include_once('inc/menu.php');
                                         </div>
                                 </div>
                         </div>
-                </div>
+                </div>-->
                 <section class="one">
-                        <div class="horizontal-line">
-                        </div>
+                        <!--<div class="horizontal-line">
+                        </div>-->
                         <div class="title-div">
                                 <h2><strong>Mantenedores</strong></h2>
                                 <div class="one-half img-position">

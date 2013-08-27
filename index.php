@@ -29,10 +29,10 @@
                                         <img src="images/slider/slider2.jpg" data-src="images/slider/slider2.jpg" data-thumb="images/slider/thumbs/thumb2.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
-                                                        <h4>Some awesome slide title goes here</h4>
+                                                        <!-- <h4>Some awesome slide title goes here</h4>
                                                         <p>
                                                                 Lorem ipsum dolor sit amet, rhenum ibat est se est amet constanter approximavit te. Suos exteriores non dum est se ad suis alteri formam cum magna aliter quem est in.
-                                                        </p>
+                                                        </p>-->
                                                 </div>
                                         </div>
                                         </li>
@@ -73,67 +73,66 @@
 </div>
     <div class="portfolio-grid">
             <ul class="portfolio-items">
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="formar-em-rede.php" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/formar-em-rede.png" alt="Formar em Rede"/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>Formar em Rede</h3>
-                    </a>
-                    <p class="meta">
-                            Em andamento
-                    </p>
-                    </li>
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>OSC</h3>
-                    </a>
-                    <p class="meta">
-                            Em Andamento
-                    </p>
-                    </li>
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>Conviva</h3>
-                    </a>
-                    <p class="meta">
-                            Em Andamento
-                    </p>
-                    </li>
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>Trilhas</h3>
-                    </a>
-                    <p class="meta">
-                            Em Andamento
-                    </p>
-                    </li>
+                <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
+                <a href="formar-em-rede.php" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/formar-em-rede.png" alt="Formar em Rede"/>
+                </div>
+                </a>
+                <a href="formar-em-rede.php">
+                <h3>Formar em Rede</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
+
+                <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
+                <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais.php" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/osc.png" alt="Ideias e Práticas da Gestão de Organizações Sociais"/>
+                </div>
+                </a>
+                <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais.php">
+                <h3>Gestão de OSCs</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
+
+                <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
+                <a href="conviva-educacao.php" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/conviva-educacao.png" alt="Conviva Educação"/>
+                </div>
+                </a>
+                <a href="conviva-educacao.php">
+                <h3>Conviva Educação</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
+
+                <li data-categories="plataformas-ead" class="thumb one-fourth">
+                <a href="progestao.php" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/progestao.png" alt="Progestão Online"/>
+                </div>
+                </a>
+                <a href="progestao.php">
+                <h3>Progestão Online</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
             </ul>  
     </div>
-    <div class="one">
-        <div class="three-fourth">
-        </div>
-        <div class="one-fourth last">    
-            <a href="projetos.php" class="button small grey round">+ Projetos</a>
-        </div>
-    </div> 
+<div class="btn-mais-projetos"> 
+            <a href="projetos.php" class="button small green circle">+ Projetos</a>
+</div>
 </section>
 <div class="horizontal-line">
 </div>
