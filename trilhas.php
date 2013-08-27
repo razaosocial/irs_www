@@ -7,7 +7,7 @@
         <div class="container">
                 <div class="projects-details-intro">
                         <div class="two-third">
-                                <h2>Projetos / <strong>Trilhas</strong></h2>
+                                <h2>Projetos / <strong>TRILHAS</strong></h2>
                         </div>
                         <div class="one-third last">
                                 <ul class="project-pagination">
@@ -26,10 +26,12 @@
 </div>
 <div class="one-half last">
         <div class="service-txt">
-                <h3>Trilhas</h3>
-                <h4>Em breve</h4>
+                <h3>TRILHAS</h3>
                 <p>
-                    Formação continuada para profissionais das Redes Públicas de Educação Infantil por meio do desenvolvimento de projetos de ação nos contextos locais.
+                    O Projeto TRILHAS de Leitura foi criado em 2009, fruto de uma parceria entre o Instituto Natura e a Comunidade Educativa (Cedac). Trata-se de uma tecnologia social com um conjunto de materiais elaborado para auxiliar o trabalho dos professores em leitura, escrita e oralidade, e tem o objetivo de inserir as crianças do primeiro ano do Ensino Fundamental em um universo letrado.
+                </p>
+                <p>
+                    Em 2011/2012, o Instituto Razão Social foi responsável pela definição da tecnologia e gestão do desenvolvimento da Rede de Ancoragem do projeto que tem o propósito de conectar mais de 72 mil instituições de educação infantil e mais de 100.000 educadores.
                 </p>
                 <br/>
                 <p>
@@ -37,36 +39,6 @@
                 </p>
         </div>
 </div>
-    <div class="one">
-            <br />
-            <h4><strong>+ Informações</strong></h4>
-            <ul class="tabs-nav">
-                    <li class="active">
-                    <a href="#tab1">Como funciona?</a>
-                    </li>
-                    <li>
-                    <a href="#tab2">Resultados</a>
-                    </li>
-            </ul>
-            <!-- end .tabs-nav -->
-            <div class="tabs-container">
-                    <div class="tab-content" id="tab1">
-                            <p>Em breve.
-                                O Projeto TRILHAS é uma iniciativa do Ministério da Educação e do Instituto Natura. 
-                                Tem como foco apoiar o trabalho docente no campo da leitura e  escrita  com objetivo de inserir 
-                                as crianças do 1º ano do Ensino Fundamental no universo letrado.
-                            </p>
-                    </div>
-                    <!-- end #tab1 -->
-                    <div class="tab-content" id="tab2">
-                            <p>
-                                Em breve
-                            </p>
-                    </div>
-                    <!-- end #tab2 -->
-            </div>
-            <!-- end .tabs-container -->
-    </div>
     <section class="one">
     <div class="title-div">
             <h2><strong>Parceiros</strong></h2>
