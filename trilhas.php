@@ -39,6 +39,8 @@
                 </p>
         </div>
 </div>
+    <div class="horizontal-line">
+</div>
     <section class="one">
     <div class="title-div">
             <h2><strong>Parceiros</strong></h2>
