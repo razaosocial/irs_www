@@ -386,6 +386,7 @@ height: 96px;
 .one,.one-half,.two-third,.one-third,.one-fourth ,.one-fifth,.one-sixth,.three-fourth{ float:left;position:relative;margin-right:3%; }
 .one { width: 100%; margin-right: 0; }
 .one-half {	width: 48.5%; }
+.acordio-termo-uso {	width: 100%; }
 .two-third { width: 65.67%; }
 .one-third  { width: 31.33%; }
 .one-fourth { width: 22.75%; }

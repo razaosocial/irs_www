@@ -48,54 +48,106 @@
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>EM BREVE</span>
-                    <img src="images/clients/partner-01.jpg" alt="">
+                    <span>Fundação Itaú Social</span>
+                    <img src="images/clients/partner-01.jpg" alt="Parceiro Fundação Itaú Social">
                     </a>
             </div>
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>EM BREVE</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
+                    <span>Fundação Lemann</span>
+                    <img src="images/clients/partner-02.jpg" alt="Parceiro Fundação Lemann">
                     </a>
             </div>
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>EM BREVE</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
+                    <span>Fundação Roberto Marinho</span>
+                    <img src="images/clients/partner-03.jpg" alt="Parceiro Fundação Roberto Marinho">
                     </a>
             </div>
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>EM BREVE</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
+                    <span>Fundação SM</span>
+                    <img src="images/clients/partner-04.jpg" alt="Parceiro Fundação SM">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth last">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Fundação Telefônica Vivo</span>
+                    <img src="images/clients/partner-05.jpg" alt="Parceiro Fundação Telefônica Vivo">
                     </a>
             </div>
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>EM BREVE</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
+                    <span>Fundação Victor Civita</span>
+                    <img src="images/clients/partner-05.jpg" alt="Parceiro Fundação Victor Civita">
                     </a>
             </div>
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>EM BREVE</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
+                    <span>Instituto Gerdau</span>
+                    <img src="images/clients/partner-05.jpg" alt="Parceiro Instituto Gerdau">
                     </a>
             </div>
     </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Instituto Natura</span>
+                    <img src="images/clients/partner-05.jpg" alt="Parceiro Instituto Natura">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Itaú BBA</span>
+                    <img src="images/clients/partner-05.jpg" alt="Parceiro Itaú BBA">
+                    </a>
+            </div>
+    </div>
+    <div class="one-fifth last">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Movimento Todos Pela Educação</p></span>
+                    <img src="images/clients/partner-05.jpg" alt="Parceiro Movimento Todos Pela Educação">
+                    </a>
+            </div>
+    </div>
+    <div class="title-div">
+            <h2><strong>Apoio</strong></h2>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Consed</p></span>
+                    <img src="images/clients/partner-05.jpg" alt="Apoio Consed">
+                    </a>
+            </div>
+    </div>
+        <div class="title-div">
+            <h2><strong>Gestão</strong></h2>
+    </div>
+    <div class="one-fifth">
+            <div class="thumbnail">
+                    <a href="#" class="thumbnail-roll">
+                    <span>Undime</p></span>
+                    <img src="images/clients/partner-05.jpg" alt="Apoio Undime">
+                    </a>
+            </div>
+    </div>    
     </section>
-    
-    
 </section>
 <?php 
 	 include('inc/footer.php');
