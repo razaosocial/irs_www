@@ -1,13 +1,13 @@
 <?php
-	include('inc/header.php');
-	include('inc/menu.php');
+    include ('inc/header.php');
+    include ('inc/menu.php');
 ?>
 
 <div class="title-div">
         <div class="container">
                 <div class="projects-details-intro">
                         <div class="two-third">
-                                <h2>Projetos / <strong>Mesa Educadora</strong></h2>
+                                <h2>Projetos / <strong>Ideias e Práticas da Gestão de Organizações Sociais</strong></h2>
                         </div>
                         <div class="one-third last">
                                 <ul class="project-pagination">
@@ -22,18 +22,17 @@
 </section>
 <section id="content" class="container">
 <div class="one-half">
-        <img src="images/projetos/projetos-detalhes/mesa-educadora.png" alt="Mesa Educadora"/>
+        <img src="images/projetos/projetos-detalhes/osc.png" alt="Ideias e Práticas da Gestão de Organizações Sociais"/>
 </div>
 <div class="one-half last">
         <div class="service-txt">
-                <h3>Mesa Educadora</h3>
+                <h3>Ideias e Práticas da Gestão de Organizações Sociais</h3>
                 <p>
-                    O Programa Mesa Educadora para a Primeira Infância, 
-                    oferece formação permanente em rede para profissionais de instituições de educação infantil.
+                       Em Breve
                 </p>
                 <br/>
                 <p>
-                        <a href="http://www.mesaeducadora.org.br/" class="button small green circle" target="_blank">Visite o site</a>
+                        <a href="http://www.razaosocial.org.br" class="button small green circle" target="_blank">Visite o site</a>
                 </p>
         </div>
 </div>
@@ -45,30 +44,25 @@
                     <a href="#tab1">Como funciona?</a>
                     </li>
                     <li>
-                    <a href="#tab2">Resultados</a>
+                    <a href="#tab3">Resultados</a>
                     </li>
             </ul>
             <!-- end .tabs-nav -->
             <div class="tabs-container">
                     <div class="tab-content" id="tab1">
                             <p>
-                                O Programa Mesa Educadora para a Primeira Infância, oferece formação permanente em 
-                                rede para profissionais de instituições de educação infantil, na busca da qualificação 
-                                da educação e dos cuidados das crianças nos seus primeiros anos de vida.
-                                O programa se desenvolve em municípios de quatro estados brasileiros (MG, RS, SP e SC).
+                                 Conteúdo do curso.
                             </p>
-                    </div>
-                    <!-- end #tab1 -->
-                    <div class="tab-content" id="tab2">
-                            <p>
-                                Em função da dimensão e abrangência do programa foi construído um Portal para viabilizar 
-                                a postagem de documentos, além de possibilitar a comunicação ágil e a construção de conhecimento na área.
-                                O Razão Social participou da construção da proposta do Portal além de gerenciar fornecedores 
-                                para o seu desenvolvimento e viabilizar a hospedagem do portal. 
-                            </p>
-                            <br />
                     </div>
                     <!-- end #tab2 -->
+                    <div class="tab-content" id="tab3">
+                            <p>
+                                Conteúdo do curso
+                            </p>
+                            <br />
+
+                    </div>
+                    <!-- end #tab3 -->
             </div>
             <!-- end .tabs-container -->
     </div>
@@ -76,13 +70,14 @@
     <div class="title-div">
             <h2><strong>Parceiros</strong></h2>
     </div>
-    <div class="one-fifth">
+   <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>Gerdau</span>
-                    <img src="images/clients/partner-01.jpg" alt="">
+                    <span>IBM</span>
+                    <img src="images/clients/partner-02.jpg" alt="Parceiro IBM">
                     </a>
             </div>
+    </div>
     </div>
     </section>
     
