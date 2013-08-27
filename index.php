@@ -94,7 +94,7 @@
                 </div>
                 </a>
                 <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais.php">
-                <h3>Ideias e Práticas da Gestão de Organizações Sociais</h3>
+                <h3>Gestão de OSCs</h3>
                 </a>
                 <p class="meta">
                         Em andamento
