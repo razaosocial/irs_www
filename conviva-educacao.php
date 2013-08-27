@@ -27,11 +27,11 @@
 <div class="one-half last">
         <div class="service-txt">
                 <h3>Conviva Educação</h3>
-                <h4>Em breve</h4>
                 <p>
-                    O ambiente virtual Conviva Educação é uma ferramenta tecnológica, 
-                    totalmente gratuita, que objetiva auxiliar as Secretarias Municipais de Educação a gerir sua 
-                    rede/sistema de ensino, possibilitando maior foco na gestão pedagógica, fortalecendo o ensino e aprendizagem.
+                    O ambiente virtual Conviva Educação é uma ferramenta tecnológica, que objetiva auxiliar as Secretarias Municipais de Educação a gerir sua rede/sistema de ensino, possibilitando maior foco na gestão pedagógica, fortalecendo o ensino e aprendizagem.
+                </p>
+                <p>
+                    O Instituto Razão Social é um dos parceiros do projeto e responsável por auxiliar, via linha 0800, mais de 8.000 profissionais das secretarias municipais de mais de 3500 cidades espalhadas pelo território nacional.
                 </p>
                 <br/>
                 <p>
@@ -39,42 +39,8 @@
                 </p>
         </div>
 </div>
-    <div class="one">
-            <br />
-            <h4><strong>+ Informações</strong></h4>
-            <ul class="tabs-nav">
-                    <li class="active">
-                    <a href="#tab1">Como funciona?</a>
-                    </li>
-                    <li>
-                    <a href="#tab2">Resultados</a>
-                    </li>
-            </ul>
-            <!-- end .tabs-nav -->
-            <div class="tabs-container">
-                    <div class="tab-content" id="tab1">
-                            <p>
-                                Através de um conjunto de informações, ferramentas e da estruturação de processos de apoio, 
-                                o ambiente virtual promove a otimização do tempo utilizado com processos administrativos, 
-                                possibilitando que mais tempo seja utilizado para as questões relacionadas ao ensino e aprendizado.
-                                O ambiente também fornece ferramentas para o planejamento de atividades, 
-                                formação, troca de experiências e articulação com o intuito de fortalecer a 
-                                gestão pedagógica da rede/sistema de ensino.
-                            </p>
-                    </div>
-                    <!-- end #tab1 -->
-                    <div class="tab-content" id="tab2">
-                            <p>
-                                Em breve.
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                    Accusamus, accusantium, quia, dolorem, voluptates ipsum animi rem unde laborum natus aperiam placeat recusandae 
-                    voluptatum sed beatae ab soluta et libero est!
-                            </p>
-                    </div>
-                    <!-- end #tab2 -->
-            </div>
-            <!-- end .tabs-container -->
-    </div>
+    <div class="horizontal-line">
+</div>
     <section class="one">
     <div class="title-div">
             <h2><strong>Parceiros</strong></h2>

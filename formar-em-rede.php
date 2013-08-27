@@ -31,6 +31,9 @@
                 <p>
                         Formação continuada para profissionais das Redes Públicas de Educação Infantil por meio do desenvolvimento de projetos de ação nos contextos locais.
                 </p>
+                <p>
+                        O Instituto Razão Social é responsável pela personalização e suporte da plataforma <strong>Moodle</strong> e do software de conferência web <strong>IBM Sametime</strong> criando uma comunidade virtual que possibilita a interação e troca de informações entre os 19 municípios participantes do projeto no estado da Bahia.
+                </p>
                 <br/>
                 <p>
                         <a href="http://www.formaremrede.org.br" class="button small green circle" target="_blank">Visite o site</a>
