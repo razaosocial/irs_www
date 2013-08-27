@@ -29,10 +29,10 @@
                                         <img src="images/slider/slider2.jpg" data-src="images/slider/slider2.jpg" data-thumb="images/slider/thumbs/thumb2.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
-                                                        <h4>Some awesome slide title goes here</h4>
+                                                        <!-- <h4>Some awesome slide title goes here</h4>
                                                         <p>
                                                                 Lorem ipsum dolor sit amet, rhenum ibat est se est amet constanter approximavit te. Suos exteriores non dum est se ad suis alteri formam cum magna aliter quem est in.
-                                                        </p>
+                                                        </p>-->
                                                 </div>
                                         </div>
                                         </li>
