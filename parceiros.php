@@ -79,7 +79,7 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>Fundação Lemann</span>
-                    <img src="images/clients/partner-02.jpg" alt="Parceiro Fundação Lemann">
+                    <img src="images/projetos/projetos-parceiros/fundacao-lemann.png" alt="Parceiro Fundação Lemann">
                     </a>
             </div>
     </div>
@@ -87,7 +87,7 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>Fundação Roberto Marinho</span>
-                    <img src="images/clients/partner-03.jpg" alt="Parceiro Fundação Roberto Marinho">
+                    <img src="images/projetos/projetos-parceiros/fundacao-roberto-marinho.png" alt="Parceiro Fundação Roberto Marinho">
                     </a>
             </div>
     </div>
@@ -95,7 +95,7 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>Fundação SM</span>
-                    <img src="images/clients/partner-04.jpg" alt="Parceiro Fundação SM">
+                    <img src="images/projetos/projetos-parceiros/fundacao-sm.png" alt="Parceiro Fundação SM">
                     </a>
             </div>
     </div>
@@ -103,7 +103,7 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>Fundação Telefônica Vivo</span>
-                    <img src="images/clients/partner-05.jpg" alt="Parceiro Fundação Telefônica Vivo">
+                    <img src="images/projetos/projetos-parceiros/fundacao-telefonica.png" alt="Parceiro Fundação Telefônica Vivo">
                     </a>
             </div>
     </div>
@@ -111,7 +111,7 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>Fundação Victor Civita</span>
-                    <img src="images/clients/partner-05.jpg" alt="Parceiro Fundação Victor Civita">
+                    <img src="images/projetos/projetos-parceiros/fundacao-victor-civita.png" alt="Parceiro Fundação Victor Civita">
                     </a>
             </div>
     </div>
@@ -119,7 +119,7 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>Itaú BBA</span>
-                    <img src="images/clients/partner-05.jpg" alt="Parceiro Itaú BBA">
+                    <img src="images/projetos/projetos-parceiros/itau-bba.png" alt="Parceiro Itaú BBA">
                     </a>
             </div>
     </div>
@@ -127,7 +127,7 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>Movimento Todos Pela Educação</p></span>
-                    <img src="images/clients/partner-05.jpg" alt="Parceiro Movimento Todos Pela Educação">
+                    <img src="images/projetos/projetos-parceiros/todos-pela-educacao.png" alt="Parceiro Movimento Todos Pela Educação">
                     </a>
             </div>
     </div>
@@ -139,7 +139,7 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>Consed</p></span>
-                    <img src="images/clients/partner-05.jpg" alt="Apoio Consed">
+                    <img src="images/projetos/projetos-parceiros/consed.png" alt="Apoio Consed">
                     </a>
             </div>
     </div>
@@ -151,7 +151,7 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>Undime</p></span>
-                    <img src="images/clients/partner-05.jpg" alt="Apoio Undime">
+                    <img src="images/projetos/projetos-parceiros/undime.png" alt="Apoio Undime">
                     </a>
             </div>
     </div>
