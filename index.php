@@ -21,10 +21,7 @@
                                         <img src="images/slider/slider1.jpg" data-thumb="images/slider/thumbs/thumb1.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
-                                                        <h4>Some awesome slide title goes here</h4>
-                                                        <p>
-                                                                Lorem ipsum dolor sit amet, rhenum ibat est se est amet constanter approximavit te. Suos exteriores non dum est se ad suis alteri formam cum magna aliter quem est in.
-                                                        </p>
+                                                        <h4>Tecnologia potencializando iniciativas sociais.</h4>
                                                 </div>
                                         </div>
                                         </li>
@@ -39,7 +36,7 @@
                                                 </div>
                                         </div>
                                         </li>
-                                        <li data-delay="5" data-trans3d="tr4,tr21,tr62" data-trans2d="tr5,tr23,tr30">
+                                        <!--<li data-delay="5" data-trans3d="tr4,tr21,tr62" data-trans2d="tr5,tr23,tr30">
                                         <img src="images/slider/slider3.jpg" data-src="images/slider/slider3.jpg" data-thumb="images/slider/thumbs/thumb3.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
@@ -49,7 +46,7 @@
                                                         </p>
                                                 </div>
                                         </div>
-                                        </li>
+                                        </li>-->
                                 </ul>
                                 <ul data-type="controls">
                                         <li data-type="captions"></li>
