@@ -130,13 +130,9 @@
                 </li>
             </ul>  
     </div>
-    <div class="one">
-        <div class="three-fourth">
-        </div>
-        <div class="one-fourth last">    
-            <a href="projetos.php" class="button small grey round">+ Projetos</a>
-        </div>
-    </div> 
+<div class="btn-mais-projetos"> 
+            <a href="projetos.php" class="button small green circle">+ Projetos</a>
+</div>
 </section>
 <div class="horizontal-line">
 </div>
