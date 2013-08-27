@@ -28,44 +28,23 @@
         <div class="service-txt">
                 <h3>Ideias e Práticas da Gestão de Organizações Sociais</h3>
                 <p>
-                       Em Breve
+                    É muito comum ouvir dizer que as pessoas que se interessam pelas causas sociais acham que cuidar da administração de seu trabalho é “perda de tempo”.
                 </p>
-                <br/>
                 <p>
-                        <a href="http://www.razaosocial.org.br" class="button small green circle" target="_blank">Visite o site</a>
+                    A maioria delas tem vocação para ajudar, mas não tem disciplina nem paciência para organizar suas atividades.
+                </p>
+                <p>
+                    De fato, a ação objetiva é muito mais interessante, nobre e coletivamente positiva. Ainda assim, a organização precisa se fortalecer para que os benefícios se perpetuem.
+                </p>
+                <p>
+                    E é isso que motivou uma parceria entre IBM e Instituto Razão Social para a construção de um curso de gestão para Organizações Sociais.
+                </p>
+                <p>
+                    O objetivo do curso é construir o início da caminhada para quem deseja tornar sua atuação mais profissional e menos sujeita a imprevistos possibilitando as OSCs a chance
+                    de trilhar com mais segurança e consistência esse importante caminho que decidiram seguir.
                 </p>
         </div>
 </div>
-    <div class="one">
-            <br />
-            <h4><strong>+ Informações</strong></h4>
-            <ul class="tabs-nav">
-                    <li class="active">
-                    <a href="#tab1">Como funciona?</a>
-                    </li>
-                    <li>
-                    <a href="#tab3">Resultados</a>
-                    </li>
-            </ul>
-            <!-- end .tabs-nav -->
-            <div class="tabs-container">
-                    <div class="tab-content" id="tab1">
-                            <p>
-                                 Conteúdo do curso.
-                            </p>
-                    </div>
-                    <!-- end #tab2 -->
-                    <div class="tab-content" id="tab3">
-                            <p>
-                                Conteúdo do curso
-                            </p>
-                            <br />
-
-                    </div>
-                    <!-- end #tab3 -->
-            </div>
-            <!-- end .tabs-container -->
-    </div>
     <section class="one">
     <div class="title-div">
             <h2><strong>Parceiros</strong></h2>
@@ -80,8 +59,6 @@
     </div>
     </div>
     </section>
-    
-    
 </section>
 <?php 
 	 include('inc/footer.php');
