@@ -109,7 +109,7 @@
                                         <li data-categories="gestao-de-portais-e-redes" class="thumb one-fourth">
 					<a href="trilhas.php" class="screen-roll"><span class="hover_bg"></span>
 					<div class="bg-grey">
-						<img src="images/projetos/portfolio-item-1.jpg" alt="TRILHAS"/>
+						<img src="images/projetos/trilhas.png" alt="TRILHAS"/>
 					</div>
 					</a>
 					<a href="trilhas.php">
@@ -122,7 +122,7 @@
                                         <li data-categories="cursos-de-curta-duracao" class="thumb one-fourth">
 					<a href="leitura-pelo-professor.php" class="screen-roll"><span class="hover_bg"></span>
 					<div class="bg-grey">
-						<img src="images/projetos/portfolio-item-1.jpg" alt="Leitura pelo Professor"/>
+						<img src="images/projetos/leitura-pelo-professor.png" alt="Leitura pelo Professor"/>
 					</div>
 					</a>
 					<a href="leitura-pelo-professor.php">

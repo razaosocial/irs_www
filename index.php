@@ -18,7 +18,7 @@
                         <div id="my-cute-slider" class="cute-slider" data-width="960" data-height="450">
                                 <ul data-type="slides">
                                         <li data-delay="4" data-trans3d="tr2,tr20,tr57" data-trans2d="tr1,tr14,tr26">
-                                        <img src="images/slider/slider1.jpg" data-thumb="images/slider/thumbs/thumb2.png" alt=""/>
+                                        <img src="images/slider/slider1.jpg" data-thumb="images/slider/thumbs/thumb1.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
                                                         <h4>Some awesome slide title goes here</h4>
