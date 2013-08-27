@@ -93,17 +93,17 @@
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
+                    <a href="http://www.avisala.org.br/" target="_blank" class="thumbnail-roll">
                     <span>Avisa Lá</span>
-                    <img src="images/clients/partner-01.jpg" alt="">
+                    <img src="images/projetos/projetos-parceiros/avisala.png" alt="Parceiro Avisa Lá">
                     </a>
             </div>
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
+                    <a href="http://www.santander.com.br/" target="_blank" class="thumbnail-roll">
                     <span>Santander</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
+                    <img src="images/projetos/projetos-parceiros/santander.png" alt="Parceiro Santander">
                     </a>
             </div>
     </div>

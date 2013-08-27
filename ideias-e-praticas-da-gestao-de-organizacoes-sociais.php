@@ -51,9 +51,9 @@
     </div>
    <div class="one-fifth">
             <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
+                    <a href="http://www.ibm.com/smarterplanet/br/pt/" target="_blank" class="thumbnail-roll">
                     <span>IBM</span>
-                    <img src="images/clients/partner-02.jpg" alt="Parceiro IBM">
+                    <img src="images/projetos/projetos-parceiros/ibm.png" alt="Parceiro IBM">
                     </a>
             </div>
     </div>

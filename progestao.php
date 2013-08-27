@@ -64,17 +64,17 @@
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
+                    <a href="http://www.gerdau.com.br/" target="_blank" class="thumbnail-roll">
                     <span>Gerdau</span>
-                    <img src="images/clients/partner-01.jpg" alt="Parceiro Gerdau">
+                    <img src="images/projetos/projetos-parceiros/gerdau.png" alt="Parceiro Gerdau">
                     </a>
             </div>
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
+                    <a href="http://www.ibm.com/smarterplanet/br/pt/" target="_blank" class="thumbnail-roll">
                     <span>IBM</span>
-                    <img src="images/clients/partner-02.jpg" alt="Parceiro IBM">
+                    <img src="images/projetos/projetos-parceiros/ibm.png" alt="Parceiro IBM">
                     </a>
             </div>
     </div>
@@ -82,23 +82,23 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>Instituto Jama</span>
-                    <img src="images/clients/partner-03.jpg" alt="Parceiro Instituto Jama">
+                    <img src="images/projetos/projetos-parceiros/instituto-jama.png" alt="Parceiro Instituto Jama">
                     </a>
             </div>
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
+                    <a href="http://www.institutonatura.org.br/" target="_blank" class="thumbnail-roll">
                     <span>Instituto Natura</span>
-                    <img src="images/clients/partner-04.jpg" alt="Parceiro Instituto Natura">
+                    <img src="images/projetos/projetos-parceiros/instituto-natura.png" alt="Parceiro Instituto Natura">
                     </a>
             </div>
     </div>
     <div class="one-fifth last">
             <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
+                    <a href="http://www.santander.com.br/" target="_blank" class="thumbnail-roll">
                     <span>Santander</span>
-                    <img src="images/clients/partner-05.jpg" alt="Parceiro Santander">
+                    <img src="images/projetos/projetos-parceiros/santander.png" alt="Parceiro Santander">
                     </a>
             </div>
     </div>

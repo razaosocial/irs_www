@@ -47,17 +47,9 @@
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Em breve</span>
-                    <img src="images/clients/partner-01.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Em breve</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
+                    <a href="http://www.portaltrilhas.org.br/PortalTrilhas.html" target="_blank" class="thumbnail-roll">
+                    <span>Instituto Natura</span>
+                    <img src="images/projetos/projetos-parceiros/instituto-natura.png" alt="Parceiro Instituto Natura">
                     </a>
             </div>
     </div>
