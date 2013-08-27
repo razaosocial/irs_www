@@ -73,58 +73,61 @@
 </div>
     <div class="portfolio-grid">
             <ul class="portfolio-items">
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="formar-em-rede.php" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/formar-em-rede.png" alt="Formar em Rede"/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>Formar em Rede</h3>
-                    </a>
-                    <p class="meta">
-                            Em andamento
-                    </p>
-                    </li>
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>OSC</h3>
-                    </a>
-                    <p class="meta">
-                            Em Andamento
-                    </p>
-                    </li>
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>Conviva</h3>
-                    </a>
-                    <p class="meta">
-                            Em Andamento
-                    </p>
-                    </li>
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>Trilhas</h3>
-                    </a>
-                    <p class="meta">
-                            Em Andamento
-                    </p>
-                    </li>
+                <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
+                <a href="formar-em-rede.php" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/formar-em-rede.png" alt="Formar em Rede"/>
+                </div>
+                </a>
+                <a href="formar-em-rede.php">
+                <h3>Formar em Rede</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
+
+                <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
+                <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais.php" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/osc.png" alt="Ideias e Práticas da Gestão de Organizações Sociais"/>
+                </div>
+                </a>
+                <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais.php">
+                <h3>Ideias e Práticas da Gestão de Organizações Sociais</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
+
+                <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
+                <a href="conviva-educacao.php" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/conviva-educacao.png" alt="Conviva Educação"/>
+                </div>
+                </a>
+                <a href="conviva-educacao.php">
+                <h3>Conviva Educação</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
+
+                <li data-categories="plataformas-ead" class="thumb one-fourth">
+                <a href="progestao.php" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/progestao.png" alt="Progestão Online"/>
+                </div>
+                </a>
+                <a href="progestao.php">
+                <h3>Progestão Online</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
             </ul>  
     </div>
     <div class="one">
