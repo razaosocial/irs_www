@@ -74,7 +74,7 @@
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
                     <span>IBM</span>
-                    <img src="images/clients/partner-02.jpg" alt="Parceiro IBM">
+                    <img src="images/parceiro-tecnologico/ibm.jpg" alt="Parceiro IBM">
                     </a>
             </div>
     </div>
