@@ -21,7 +21,10 @@
                                         <img src="images/slider/slider1.jpg" data-thumb="images/slider/thumbs/thumb1.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
-                                                        <h4>Tecnologia potencializando iniciativas sociais.</h4>
+                                                        <h4>Metodologias de Gestão Tecnológica.</h4>
+                                                        <p>
+                                                                Nós do Instituto Razão Social utilizamos Metodologias de Gestão Tecnológica, dando ênfase na confiabilidade e disponibilidade dos dados e no uso funcional das ferramentas digitais.
+                                                        </p>
                                                 </div>
                                         </div>
                                         </li>
@@ -29,10 +32,10 @@
                                         <img src="images/slider/slider2.jpg" data-src="images/slider/slider2.jpg" data-thumb="images/slider/thumbs/thumb2.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
-                                                        <!-- <h4>Some awesome slide title goes here</h4>
+                                                        <h4>Usabilidade e Experiência do Usuário</h4>
                                                         <p>
-                                                                Lorem ipsum dolor sit amet, rhenum ibat est se est amet constanter approximavit te. Suos exteriores non dum est se ad suis alteri formam cum magna aliter quem est in.
-                                                        </p>-->
+                                                                Baseado no rastreamento da navegabilidade dos usuários, o Instituto Razão Social procura desenvolver e utilizar elementos e ferramentas para plataformas que sejam familiares gerando interesse e envolvimento contínuo.
+                                                        </p>
                                                 </div>
                                         </div>
                                         </li>
@@ -68,8 +71,8 @@
 <div class="horizontal-line">
 </div>
 <div class="title-div">
-        <h2><strong>Nossos Projetos</strong></h2>
-        <h5>Conheça um pouco sobre cada um de nossos projetos e como funcionam.</h5>
+        <h2><strong>Projetos</strong></h2>
+        <h5>Conheça um pouco mais sobre os projetos que atuamos.</h5>
 </div>
     <div class="portfolio-grid">
             <ul class="portfolio-items">
