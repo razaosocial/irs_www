@@ -79,7 +79,7 @@
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="http://www.gerdau.com.br/" target="_blank" class="thumbnail-roll">
-                    <span>Gerdau</span>
+                    <span><br />Gerdau</span>
                     <img src="images/projetos/projetos-parceiros/gerdau.png" alt="Parceiro Gerdau">
                     </a>
             </div>

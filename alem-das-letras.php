@@ -89,7 +89,7 @@
    <div class="one-fifth">
             <div class="thumbnail">
                     <a href="http://www.avisala.org.br/" target="_blank" class="thumbnail-roll">
-                    <span>Avisa Lá</span>
+                    <span><br />Avisa Lá</span>
                     <img src="images/projetos/projetos-parceiros/avisala.png" alt="Parceiro Avisa Lá">
                     </a>
             </div>

@@ -65,7 +65,7 @@
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="http://www.gerdau.com.br/" target="_blank" class="thumbnail-roll">
-                    <span>Gerdau</span>
+                    <span><br />Gerdau</span>
                     <img src="images/projetos/projetos-parceiros/gerdau.png" alt="Parceiro Gerdau">
                     </a>
             </div>
@@ -73,7 +73,7 @@
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="http://www.ibm.com/smarterplanet/br/pt/" target="_blank" class="thumbnail-roll">
-                    <span>IBM</span>
+                    <span><br />IBM</span>
                     <img src="images/projetos/projetos-parceiros/ibm.png" alt="Parceiro IBM">
                     </a>
             </div>
@@ -81,7 +81,7 @@
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="#" class="thumbnail-roll">
-                    <span>Instituto Jama</span>
+                    <span><br />Instituto Jama</span>
                     <img src="images/projetos/projetos-parceiros/instituto-jama.png" alt="Parceiro Instituto Jama">
                     </a>
             </div>
@@ -89,7 +89,7 @@
     <div class="one-fifth">
             <div class="thumbnail">
                     <a href="http://www.institutonatura.org.br/" target="_blank" class="thumbnail-roll">
-                    <span>Instituto Natura</span>
+                    <span><br />Instituto Natura</span>
                     <img src="images/projetos/projetos-parceiros/instituto-natura.png" alt="Parceiro Instituto Natura">
                     </a>
             </div>
@@ -97,7 +97,7 @@
     <div class="one-fifth last">
             <div class="thumbnail">
                     <a href="http://www.santander.com.br/" target="_blank" class="thumbnail-roll">
-                    <span>Santander</span>
+                    <span><br />Santander</span>
                     <img src="images/projetos/projetos-parceiros/santander.png" alt="Parceiro Santander">
                     </a>
             </div>

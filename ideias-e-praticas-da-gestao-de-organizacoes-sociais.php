@@ -52,7 +52,7 @@
    <div class="one-fifth">
             <div class="thumbnail">
                     <a href="http://www.ibm.com/smarterplanet/br/pt/" target="_blank" class="thumbnail-roll">
-                    <span>IBM</span>
+                    <span><br />IBM</span>
                     <img src="images/projetos/projetos-parceiros/ibm.png" alt="Parceiro IBM">
                     </a>
             </div>
