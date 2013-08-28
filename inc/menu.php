@@ -6,7 +6,7 @@
 		</ul>
 		<ul class="links">
 			<li><a href="http://www.promon.com.br/exchange" target="_blank"  title="WebMail">Webmail</a></li>
-                        <li><a href="http://ged.razaosocial.org.br:8080/share/page/" target="_blank"  title="WebMail">GED</a></li>
+                        <li><a href="http://ged.razaosocial.org.br:8080/share/page/" target="_blank"  title="GED">GED</a></li>
 			<li><a href="http://helpdesk.razaosocial.org.br/admin" target="_blank" title="Help Desk">Help Desk</a></li>
 			<li><a href="http://ead.razaosocial.org.br/login/index.php" target="_blank" title="Ambiente Virtual">Ambiente Virtual</a></li>
 		</ul>

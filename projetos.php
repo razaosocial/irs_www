@@ -11,7 +11,7 @@
   <div class="container">
     <div class="title-div">
             <h2><strong>Projetos</strong></h2>
-            <h5>Conheça um pouco sobre cada um de nossos projetos.</h5>
+            <h5>Conheça um pouco mais sobre os projetos que atuamos.</h5>
     </div>
   </section>   
  
