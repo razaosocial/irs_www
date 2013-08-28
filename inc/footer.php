@@ -34,7 +34,7 @@
 				<div class="one-half last">
 					<ul class="copyright_links">
                                             <li>Prestação de Contas: <span><a style="float: none; padding: 0px 0px 0px 0px; background: none;" href="pdf/prestacao_de_contas_2011.pdf" target="_blank">2011</a> | <a href="pdf/prestacao_de_contas_2012.pdf" style="float: none; padding: 0px 0px 0px 0px; background: none;" target="_blank">2012</a></span></li>
-                                            <li><a href="termo-de-uso.php" >Termo de Uso</a></li>
+                                            <li><a href="termo-de-uso" >Termo de Uso</a></li>
 					</ul>
 				</div>
 			</div>

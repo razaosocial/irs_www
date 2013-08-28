@@ -21,7 +21,7 @@
                                         <img src="images/slider/slider1.jpg" data-thumb="images/slider/thumbs/thumb1.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
-                                                        <h4>Metodologias de Gestão Tecnológica.</h4>
+                                                        <h4>Metodologias de Gestão Tecnológica</h4>
                                                         <p>
                                                                 Nós do Instituto Razão Social utilizamos Metodologias de Gestão Tecnológica, dando ênfase na confiabilidade e disponibilidade dos dados e no uso funcional das ferramentas digitais.
                                                         </p>
@@ -77,12 +77,12 @@
     <div class="portfolio-grid">
             <ul class="portfolio-items">
                 <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
-                <a href="formar-em-rede.php" class="screen-roll"><span class="hover_bg"></span>
+                <a href="formar-em-rede" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
                         <img src="images/projetos/formar-em-rede.png" alt="Formar em Rede"/>
                 </div>
                 </a>
-                <a href="formar-em-rede.php">
+                <a href="formar-em-rede">
                 <h3>Formar em Rede</h3>
                 </a>
                 <p class="meta">
@@ -91,12 +91,12 @@
                 </li>
 
                 <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
-                <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais.php" class="screen-roll"><span class="hover_bg"></span>
+                <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
                         <img src="images/projetos/osc.png" alt="Ideias e Práticas da Gestão de Organizações Sociais"/>
                 </div>
                 </a>
-                <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais.php">
+                <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais">
                 <h3>Gestão de OSCs</h3>
                 </a>
                 <p class="meta">
@@ -105,12 +105,12 @@
                 </li>
 
                 <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
-                <a href="conviva-educacao.php" class="screen-roll"><span class="hover_bg"></span>
+                <a href="conviva-educacao" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
                         <img src="images/projetos/conviva-educacao.png" alt="Conviva Educação"/>
                 </div>
                 </a>
-                <a href="conviva-educacao.php">
+                <a href="conviva-educacao">
                 <h3>Conviva Educação</h3>
                 </a>
                 <p class="meta">
@@ -119,12 +119,12 @@
                 </li>
 
                 <li data-categories="plataformas-ead" class="thumb one-fourth">
-                <a href="progestao.php" class="screen-roll"><span class="hover_bg"></span>
+                <a href="progestao" class="screen-roll"><span class="hover_bg"></span>
                 <div class="bg-grey">
                         <img src="images/projetos/progestao.png" alt="Progestão Online"/>
                 </div>
                 </a>
-                <a href="progestao.php">
+                <a href="progestao">
                 <h3>Progestão Online</h3>
                 </a>
                 <p class="meta">
@@ -134,7 +134,7 @@
             </ul>  
     </div>
 <div class="btn-mais-projetos"> 
-            <a href="projetos.php" class="button small green circle">+ Projetos</a>
+            <a href="projetos" class="button small green circle">+ Projetos</a>
 </div>
 </section>
 <div class="horizontal-line">

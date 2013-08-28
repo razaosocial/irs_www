@@ -16,13 +16,13 @@
 	<header id="header">
 		<div id="sticky_navigation" class="shadow">
 			<div class="container">
-				<a href="index.php" id="logo"></a>
+				<a href="/" id="logo"></a>
 				<div id="navigation-wrapper">
 					<nav id="main-navigation">
 						<!--  MAIN  NAVIGATION-->
 						<ul class="main-menu">
 							<li>
-								<a href="index.php" title="Home" <?php 	$page = $_SERVER['PHP_SELF'];
+								<a href="/" title="Home" <?php 	$page = $_SERVER['PHP_SELF'];
 
 								if (strpos($page, 'index')) {
 									echo 'class="active"';
@@ -30,21 +30,21 @@
 							</li>
 
 							<li>
-								<a href="quem-somos.php" title="Quem Somos" <?php 	$page = $_SERVER['PHP_SELF'];
+								<a href="quem-somos" title="Quem Somos" <?php 	$page = $_SERVER['PHP_SELF'];
 
 								if (strpos($page, 'quem-somos')) {
 									echo 'class="active"';
 								}?>>Quem Somos</a>
 							</li>
 							<li>
-								<a href="projetos.php" title="Projetos" <?php 	$page = $_SERVER['PHP_SELF'];
+								<a href="projetos" title="Projetos" <?php 	$page = $_SERVER['PHP_SELF'];
 
 								if (strpos($page, 'projetos')) {
 									echo 'class="active"';
 								}?>>Projetos</a>
 							</li>
 							<li>
-								<a href="contato.php" title="Contato"<?php 	$page = $_SERVER['PHP_SELF'];
+								<a href="contato" title="Contato"<?php 	$page = $_SERVER['PHP_SELF'];
 
 								if (strpos($page, 'contato')) {
 									echo 'class="active"';
