@@ -13,7 +13,7 @@
                                 <ul class="project-pagination">
                                         <!--<li><a href="#" class="prev" title="Voltar"><span>Previous</span></a></li>
                                         <li><a href="#" class="next" title="Avançar"><span>Next</span></a></li>-->
-                                        <li><a href="projetos.php" class="all-projects" title="Todos os Projetos"><span>Projetos</span></a></li>
+                                        <li><a href="projetos" class="all-projects" title="Todos os Projetos"><span>Projetos</span></a></li>
                                 </ul>
                         </div>
                 </div>
