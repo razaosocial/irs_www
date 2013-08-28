@@ -22,10 +22,6 @@ include_once('inc/menu.php');
         </div>
         <div class="horizontal-line">
         </div>
-        <form action="#" class="newsletter-form" method="post">
-            <input type="text" name="name" placeholder="Digite as palavras-chave"/>
-            <button class="button small green round">Search</button>
-        </form>
     </div>
 </section>
 

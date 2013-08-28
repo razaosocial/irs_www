@@ -13,7 +13,7 @@
                                 <ul class="project-pagination">
                                         <!--<li><a href="#" class="prev" title="Voltar"><span>Previous</span></a></li>
                                         <li><a href="#" class="next" title="Avançar"><span>Next</span></a></li>-->
-                                        <li><a href="projetos.php" class="all-projects" title="Todos os Projetos"><span>Projetos</span></a></li>
+                                        <li><a href="projetos" class="all-projects" title="Todos os Projetos"><span>Projetos</span></a></li>
                                 </ul>
                         </div>
                 </div>
@@ -78,9 +78,9 @@
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
+                    <a href="http://www.gerdau.com.br/" target="_blank" class="thumbnail-roll">
                     <span>Gerdau</span>
-                    <img src="images/clients/partner-01.jpg" alt="">
+                    <img src="images/projetos/projetos-parceiros/gerdau.png" alt="Parceiro Gerdau">
                     </a>
             </div>
     </div>

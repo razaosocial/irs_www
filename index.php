@@ -18,12 +18,12 @@
                         <div id="my-cute-slider" class="cute-slider" data-width="960" data-height="450">
                                 <ul data-type="slides">
                                         <li data-delay="4" data-trans3d="tr2,tr20,tr57" data-trans2d="tr1,tr14,tr26">
-                                        <img src="images/slider/slider1.jpg" data-thumb="images/slider/thumbs/thumb2.png" alt=""/>
+                                        <img src="images/slider/slider1.jpg" data-thumb="images/slider/thumbs/thumb1.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
-                                                        <h4>Some awesome slide title goes here</h4>
+                                                        <h4>Metodologias de Gestão Tecnológica</h4>
                                                         <p>
-                                                                Lorem ipsum dolor sit amet, rhenum ibat est se est amet constanter approximavit te. Suos exteriores non dum est se ad suis alteri formam cum magna aliter quem est in.
+                                                                Nós do Instituto Razão Social utilizamos Metodologias de Gestão Tecnológica, dando ênfase na confiabilidade e disponibilidade dos dados e no uso funcional das ferramentas digitais.
                                                         </p>
                                                 </div>
                                         </div>
@@ -32,14 +32,14 @@
                                         <img src="images/slider/slider2.jpg" data-src="images/slider/slider2.jpg" data-thumb="images/slider/thumbs/thumb2.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
-                                                        <h4>Some awesome slide title goes here</h4>
+                                                        <h4>Usabilidade e Experiência do Usuário</h4>
                                                         <p>
-                                                                Lorem ipsum dolor sit amet, rhenum ibat est se est amet constanter approximavit te. Suos exteriores non dum est se ad suis alteri formam cum magna aliter quem est in.
+                                                                Baseado no rastreamento da navegabilidade dos usuários, o Instituto Razão Social procura desenvolver e utilizar elementos e ferramentas para plataformas que sejam familiares gerando interesse e envolvimento contínuo.
                                                         </p>
                                                 </div>
                                         </div>
                                         </li>
-                                        <li data-delay="5" data-trans3d="tr4,tr21,tr62" data-trans2d="tr5,tr23,tr30">
+                                        <!--<li data-delay="5" data-trans3d="tr4,tr21,tr62" data-trans2d="tr5,tr23,tr30">
                                         <img src="images/slider/slider3.jpg" data-src="images/slider/slider3.jpg" data-thumb="images/slider/thumbs/thumb3.png" alt=""/>
                                         <div data-type="info" class="cute-caption" data-align="left">
                                                 <div>
@@ -49,7 +49,7 @@
                                                         </p>
                                                 </div>
                                         </div>
-                                        </li>
+                                        </li>-->
                                 </ul>
                                 <ul data-type="controls">
                                         <li data-type="captions"></li>
@@ -71,72 +71,71 @@
 <div class="horizontal-line">
 </div>
 <div class="title-div">
-        <h2><strong>Nossos Projetos</strong></h2>
-        <h5>Conheça um pouco sobre cada um de nossos projetos e como funcionam.</h5>
+        <h2><strong>Projetos</strong></h2>
+        <h5>Conheça um pouco mais sobre os projetos que atuamos.</h5>
 </div>
     <div class="portfolio-grid">
             <ul class="portfolio-items">
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="formar-em-rede.php" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/formar-em-rede.png" alt="Formar em Rede"/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>Formar em Rede</h3>
-                    </a>
-                    <p class="meta">
-                            Em andamento
-                    </p>
-                    </li>
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>OSC</h3>
-                    </a>
-                    <p class="meta">
-                            Em Andamento
-                    </p>
-                    </li>
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>Conviva</h3>
-                    </a>
-                    <p class="meta">
-                            Em Andamento
-                    </p>
-                    </li>
-                    <li data-categories="Em andamento" class="thumb one-fourth">
-                    <a href="#" class="screen-roll"><span class="hover_bg"></span>
-                    <div class="bg-grey">
-                            <img src="images/projetos/portfolio-item-1.jpg" alt=" "/>
-                    </div>
-                    </a>
-                    <a href="single-project.html">
-                    <h3>Trilhas</h3>
-                    </a>
-                    <p class="meta">
-                            Em Andamento
-                    </p>
-                    </li>
+                <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
+                <a href="formar-em-rede" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/formar-em-rede.png" alt="Formar em Rede"/>
+                </div>
+                </a>
+                <a href="formar-em-rede">
+                <h3>Formar em Rede</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
+
+                <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
+                <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/osc.png" alt="Ideias e Práticas da Gestão de Organizações Sociais"/>
+                </div>
+                </a>
+                <a href="ideias-e-praticas-da-gestao-de-organizacoes-sociais">
+                <h3>Gestão de OSCs</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
+
+                <li data-categories="redes-de-aprendizagem" class="thumb one-fourth">
+                <a href="conviva-educacao" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/conviva-educacao.png" alt="Conviva Educação"/>
+                </div>
+                </a>
+                <a href="conviva-educacao">
+                <h3>Conviva Educação</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
+
+                <li data-categories="plataformas-ead" class="thumb one-fourth">
+                <a href="progestao" class="screen-roll"><span class="hover_bg"></span>
+                <div class="bg-grey">
+                        <img src="images/projetos/progestao.png" alt="Progestão Online"/>
+                </div>
+                </a>
+                <a href="progestao">
+                <h3>Progestão Online</h3>
+                </a>
+                <p class="meta">
+                        Em andamento
+                </p>
+                </li>
             </ul>  
     </div>
-    <div class="one">
-        <div class="three-fourth">
-        </div>
-        <div class="one-fourth last">    
-            <a href="projetos.php" class="button small grey round">+ Projetos</a>
-        </div>
-    </div> 
+<div class="btn-mais-projetos"> 
+            <a href="projetos" class="button small green circle">+ Projetos</a>
+</div>
 </section>
 <div class="horizontal-line">
 </div>

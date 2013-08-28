@@ -13,7 +13,7 @@
                                 <ul class="project-pagination">
                                         <!--<li><a href="#" class="prev" title="Voltar"><span>Previous</span></a></li>
                                         <li><a href="#" class="next" title="Avançar"><span>Next</span></a></li>-->
-                                        <li><a href="projetos.php" class="all-projects" title="Todos os Projetos"><span>Projetos</span></a></li>
+                                        <li><a href="projetos" class="all-projects" title="Todos os Projetos"><span>Projetos</span></a></li>
                                 </ul>
                         </div>
                 </div>
@@ -47,17 +47,9 @@
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Em breve</span>
-                    <img src="images/clients/partner-01.jpg" alt="">
-                    </a>
-            </div>
-    </div>
-    <div class="one-fifth">
-            <div class="thumbnail">
-                    <a href="#" class="thumbnail-roll">
-                    <span>Em breve</span>
-                    <img src="images/clients/partner-02.jpg" alt="">
+                    <a href="http://www.portaltrilhas.org.br/PortalTrilhas.html" target="_blank" class="thumbnail-roll">
+                    <span>Instituto Natura</span>
+                    <img src="images/projetos/projetos-parceiros/instituto-natura.png" alt="Parceiro Instituto Natura">
                     </a>
             </div>
     </div>

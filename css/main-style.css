@@ -243,6 +243,10 @@ height: 96px;
 	border-bottom:1px solid #ececec;	
 }
  .title-div h2{font-weight:300;font-size: 26px;line-height: 32px;}
+ 
+ .title-div .text-left{
+     text-align: left;
+ }
 /*--------------------------------------------------------------------------*/
 /*									TOP PANEL						 		*/
 /*--------------------------------------------------------------------------*/
@@ -3557,6 +3561,11 @@ ul.pricing-box li.one-third.best-plan {
 .img-position{
     margin: 150px 0 0 0;
 }
+
+.btn-mais-projetos{
+    text-align: right;
+}
+
 /*___________________________________________________________________*/
 
 /*---------------Pág 404 - Yoda---------------*/

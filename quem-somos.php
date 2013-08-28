@@ -5,28 +5,48 @@ include_once('inc/menu.php');
 </section>
 <section class="container">
         <section class="one">
+            <div class="title-div">
+                <h2><strong>Quem Somos</strong></h2>
+                <h5>Criado em 2002 o Instituto Razão Social enxerga a tecnologia como meio de potencializar iniciativas sociais, processos de gestão, ensino e aprendizagem.
+                Em sua missão o IRS conta com a parceria da IBM que desde 2004 é responsável pela atualização de toda a infraestrutura tecnológica de softwares e servidores que suportam os projetos. Além de sua valiosa participação em nosso conselho diretor.
+                </h5>
+            </div>
+        </section>
+        <!--<section class="one">
                 <div class="title-div">
-                    <h5>Criado em 2002 o Instituto Razão Social enxerga a tecnologia como meio de potencializar iniciativas sociais, processos de gestão, ensino e aprendizagem.
-                    Em sua missão o IRS conta com a parceria da IBM que desde 2004 é responsável pela atualização de toda a infraestrutura tecnológica de softwares e servidores que suportam os projetos. Além de sua valiosa participação em nosso conselho diretor.
-                    </h5>
+                        <h2><strong>Missão</strong></h2>
+                        <h5>Educação é a razão social do futuro</h5>
                 </div>
-                </section>
-                <section class="one">
-                        <div class="title-div">
-                                <h2><strong>Visão</strong></h2>
-                                <h5>Educação é a razão social do futuro</h5>
-                        </div>
-                </section>
-                <section class="one">
-                        <div class="title-div">
-                                <h2><strong>Missão</strong></h2>
-                                <h5>Ser referência em gestão de projetos e aplicação da tecnologia para potencializar iniciativas sociais 
-                                        e melhorar processos educacionais</h5>
-                                </div>
-                        </section>
-                </section>
+        </section>
+        <section class="one">
+                <div class="title-div">
+                        <h2><strong>Visão</strong></h2>
+                        <h5>Ser referência em gestão de projetos e aplicação da tecnologia para potencializar iniciativas sociais 
+                                e melhorar processos educacionais</h5>
+                </div>
+        </section>-->
+        <section class="one">
+                <div class="title-div">
+                        <h2><strong>Como Atuamos</strong></h2>
+                        <h5>
+                            A chave para criar plataformas e ferramentas digitais de uso simples e ao mesmo tempo altamente eficientes na formação a distância
+                            é entender o público a qual elas se destinam. E é esse o maior investimento do Instituto Razão Social.<br /><br />
+
+                            Qualquer pessoa que usa um programa de computador espera que esse programa seja capaz de entendê-la, de ir ao encontro das necessidades
+                            dela. É essa inteligência que desenvolvemos diariamente no instituto. Para entender o que precisam os participantes dos projetos, o IRS aplica
+                            questionários para descobrir quais os hábitos digitais e conhecimentos prévios eles têm e, a partir dai, desenvolver a interface, a “cara” que terá a
+                            plataforma criada para cada projeto.<br /><br />
+
+                            Conhecendo então o comportamento digital destes participantes, a equipe e programadores desenvolve elementos e ferramentas para a plataforma
+                            que sejam familiares e tenham as qualidades sociais necessárias para gerar interesse e envolvimento. Entre elas está a biblioteca social, na qual os textos
+                            e documentos podem ser resenhados, avaliados e recomendados pelos participantes, entre muitos outros recursos aplicados nos diferentes programas
+                            do IRS.   
+                        </h5>
+                </div>
+        </section>
+</section>
                 <section id="content" class="container">
-                        <div class="one">
+                        <!--<div class="one">
                                 <div class="one-fourth">
                                         <div class="team-member grey-img">
                                                 <p>
@@ -244,10 +264,10 @@ include_once('inc/menu.php');
                                         </div>
                                 </div>
                         </div>
-                </div>
+                </div>-->
                 <section class="one">
-                        <div class="horizontal-line">
-                        </div>
+                        <!--<div class="horizontal-line">
+                        </div>-->
                         <div class="title-div">
                                 <h2><strong>Mantenedores</strong></h2>
                                 <div class="one-half img-position">
