@@ -47,8 +47,8 @@
     </div>
     <div class="one-fifth">
             <div class="thumbnail">
-                    <a href="http://www.portaltrilhas.org.br/PortalTrilhas.html" target="_blank" class="thumbnail-roll">
-                    <span>Instituto Natura</span>
+                    <a href="http://www.institutonatura.org.br/" target="_blank" class="thumbnail-roll">
+                    <span><br />Instituto Natura</span>
                     <img src="images/projetos/projetos-parceiros/instituto-natura.png" alt="Parceiro Instituto Natura">
                     </a>
             </div>

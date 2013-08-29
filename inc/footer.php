@@ -5,7 +5,7 @@
 					<div class="one-fourth contact-end">
                                             <h4>Contato</h4>
 						<p>
-							Av. Presidente Jucelino Kubitschek, 1830
+							Av. Presidente Juscelino Kubitschek, 1830
 						</p>
 						<p>
 							 Torre 4 - 15º Andar

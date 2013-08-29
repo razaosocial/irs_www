@@ -34,7 +34,7 @@
                                                 <div>
                                                         <h4>Usabilidade e Experiência do Usuário</h4>
                                                         <p>
-                                                                Baseado no rastreamento da navegabilidade dos usuários, o Instituto Razão Social procura desenvolver e utilizar elementos e ferramentas para plataformas que sejam familiares gerando interesse e envolvimento contínuo.
+                                                                Baseado no rastreamento da navegabilidade dos usuários procuramos desenvolver e utilizar elementos e ferramentas que sejam familiares aos internautas gerando interesse e envolvimento contínuo.
                                                         </p>
                                                 </div>
                                         </div>
