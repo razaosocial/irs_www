@@ -15,9 +15,7 @@
                                                 </p>
                                                 <p>     CEP: 04543-900
                                                 </p><br />
-                                                <p>Telefone: (11) 5213-4981
-                                                </p>
-                                                <p>E-mail: razaosocial@razaosocial.org.br
+                                                <p>T: (11) 5213-4981
                                                 </p>
 					</div>
 					

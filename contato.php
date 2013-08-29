@@ -30,7 +30,7 @@ include_once 'inc/menu.php';
 		<br/>
 		<h4>Formas de Contato</h4>
 		<p style="margin-bottom:0;">
-			T: (11) 5213-4981 <br/> E: <a href="mailto:razaosocial@razaosocial.org.br">razaosocial@razaosocial.org.br</a>
+			T: (11) 5213-4981
 		</p>
 	</div>
 	<form  id="contato" name="contato" class="simple-form" method="post" action="">
